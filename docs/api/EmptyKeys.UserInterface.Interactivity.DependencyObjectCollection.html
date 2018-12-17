@@ -1,0 +1,664 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class DependencyObjectCollection
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class DependencyObjectCollection
+   ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection">
+  
+  
+  <h1 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection" class="text-break">Class DependencyObjectCollection
+  </h1>
+  <div class="markdown level0 summary"><p>Implements Dependency Object collection</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
+    <div class="level2"><span class="xref">DependencyObjectCollection</span></div>
+      <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.Interactivity.ActionCollection.html">ActionCollection</a></div>
+      <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.Interactivity.BehaviorCollection.html">BehaviorCollection</a></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="EmptyKeys.UserInterface.Interactivity.IObservableVector-1.html">IObservableVector</a>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</div>
+    <div><span class="xref">System.Collections.Generic.IList</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</div>
+    <div><span class="xref">System.Collections.Generic.ICollection</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</div>
+    <div><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</div>
+    <div><span class="xref">System.Collections.IEnumerable</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_DependencyObjectType">DependencyObject.DependencyObjectType</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_IsSealed">DependencyObject.IsSealed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_Equals_System_Object_">DependencyObject.Equals(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetHashCode">DependencyObject.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ClearValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ClearValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.GetValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ReadLocalValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ReadLocalValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetLocalValueEnumerator">DependencyObject.GetLocalValueEnumerator()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetValue_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetValue(DependencyProperty, Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_OnPropertyChanged_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.OnPropertyChanged(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_CoerceValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.CoerceValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetBinding_EmptyKeys_UserInterface_DependencyProperty_EmptyKeys_UserInterface_Data_Binding_">DependencyObject.SetBinding(DependencyProperty, Binding)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetResourceReference_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetResourceReference(DependencyProperty, Object)</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.Interactivity.html">EmptyKeys.UserInterface.Interactivity</a></h6>
+  <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
+  <h5 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class DependencyObjectCollection : DependencyObject, IObservableVector&lt;DependencyObject&gt;, IList&lt;DependencyObject&gt;, ICollection&lt;DependencyObject&gt;, IEnumerable&lt;DependencyObject&gt;, IEnumerable</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection__ctor_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection__ctor" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.#ctor">DependencyObjectCollection()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.html">DependencyObjectCollection</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DependencyObjectCollection()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Count_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Count*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Count" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Count">Count</h4>
+  <div class="markdown level1 summary"><p>Gets the number of elements contained in the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Count { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_IsReadOnly_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.IsReadOnly*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_IsReadOnly" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.IsReadOnly">IsReadOnly</h4>
+  <div class="markdown level1 summary"><p>Gets a value indicating whether the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span> is read-only.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsReadOnly { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Item_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Item*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Item_System_Int32_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Item(System.Int32)">Item[Int32]</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the element at the specified index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DependencyObject this[int index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">index</span></td>
+        <td><p>The index.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Add_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Add*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Add_EmptyKeys_UserInterface_DependencyObject_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Add(EmptyKeys.UserInterface.DependencyObject)">Add(DependencyObject)</h4>
+  <div class="markdown level1 summary"><p>Adds an item to the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Add(DependencyObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The object to add to the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Clear_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Clear*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Clear" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Clear">Clear()</h4>
+  <div class="markdown level1 summary"><p>Removes all items from the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Clear()</code></pre>
+  </div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Contains_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Contains*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Contains_EmptyKeys_UserInterface_DependencyObject_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Contains(EmptyKeys.UserInterface.DependencyObject)">Contains(DependencyObject)</h4>
+  <div class="markdown level1 summary"><p>Determines whether the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span> contains a specific value.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Contains(DependencyObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The object to locate in the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>true if <code data-dev-comment-type="paramref" class="paramref">item</code> is found in the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>; otherwise, false.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_CopyTo_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.CopyTo*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_CopyTo_EmptyKeys_UserInterface_DependencyObject___System_Int32_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.CopyTo(EmptyKeys.UserInterface.DependencyObject[],System.Int32)">CopyTo(DependencyObject[], Int32)</h4>
+  <div class="markdown level1 summary"><p>Copies to.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void CopyTo(DependencyObject[] array, int arrayIndex)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>[]</td>
+        <td><span class="parametername">array</span></td>
+        <td><p>The array.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">arrayIndex</span></td>
+        <td><p>Index of the array.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_GetEnumerator_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.GetEnumerator*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_GetEnumerator" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.GetEnumerator">GetEnumerator()</h4>
+  <div class="markdown level1 summary"><p>Returns an enumerator that iterates through the collection.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IEnumerator&lt;DependencyObject&gt; GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IEnumerator</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</td>
+        <td><p>An enumerator that can be used to iterate through the collection.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_IndexOf_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.IndexOf*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_IndexOf_EmptyKeys_UserInterface_DependencyObject_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.IndexOf(EmptyKeys.UserInterface.DependencyObject)">IndexOf(DependencyObject)</h4>
+  <div class="markdown level1 summary"><p>Determines the index of a specific item in the <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int IndexOf(DependencyObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The object to locate in the <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>The index of <code data-dev-comment-type="paramref" class="paramref">item</code> if found in the list; otherwise, -1.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Insert_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Insert*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Insert_System_Int32_EmptyKeys_UserInterface_DependencyObject_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Insert(System.Int32,EmptyKeys.UserInterface.DependencyObject)">Insert(Int32, DependencyObject)</h4>
+  <div class="markdown level1 summary"><p>Inserts an item to the <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span> at the specified index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Insert(int index, DependencyObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">index</span></td>
+        <td><p>The zero-based index at which <code data-dev-comment-type="paramref" class="paramref">item</code> should be inserted.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The object to insert into the <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Remove_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Remove*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_Remove_EmptyKeys_UserInterface_DependencyObject_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.Remove(EmptyKeys.UserInterface.DependencyObject)">Remove(DependencyObject)</h4>
+  <div class="markdown level1 summary"><p>Removes the first occurrence of a specific object from the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Remove(DependencyObject item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The object to remove from the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p>true if <code data-dev-comment-type="paramref" class="paramref">item</code> was successfully removed from the <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>; otherwise, false. This method also returns false if <code data-dev-comment-type="paramref" class="paramref">item</code> is not found in the original <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_RemoveAt_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.RemoveAt*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_RemoveAt_System_Int32_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.RemoveAt(System.Int32)">RemoveAt(Int32)</h4>
+  <div class="markdown level1 summary"><p>Removes the <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span> item at the specified index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RemoveAt(int index)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">index</span></td>
+        <td><p>The zero-based index of the item to remove.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="events">Events
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_VectorChanged" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.VectorChanged">VectorChanged</h4>
+  <div class="markdown level1 summary"><p>Occurs when [vector changed].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public event VectorChangedEventHandler&lt;DependencyObject&gt; VectorChanged</code></pre>
+  </div>
+  <h5 class="eventType">Event Type</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Interactivity.VectorChangedEventHandler-1.html">VectorChangedEventHandler</a>&lt;<a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="eii">Explicit Interface Implementations
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_System_Collections_IEnumerable_GetEnumerator_" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.System#Collections#IEnumerable#GetEnumerator*"></a>
+  <h4 id="EmptyKeys_UserInterface_Interactivity_DependencyObjectCollection_System_Collections_IEnumerable_GetEnumerator" data-uid="EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.System#Collections#IEnumerable#GetEnumerator">IEnumerable.GetEnumerator()</h4>
+  <div class="markdown level1 summary"><p>Returns an enumerator that iterates through a collection.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IEnumerator IEnumerable.GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.IEnumerator</span></td>
+        <td><p>An <span class="xref">System.Collections.IEnumerator</span> object that can be used to iterate through the collection.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Interactivity.IObservableVector-1.html">IObservableVector&lt;T&gt;</a>
+  </div>
+  <div>
+      <span class="xref">System.Collections.Generic.IList&lt;T&gt;</span>
+  </div>
+  <div>
+      <span class="xref">System.Collections.Generic.ICollection&lt;T&gt;</span>
+  </div>
+  <div>
+      <span class="xref">System.Collections.Generic.IEnumerable&lt;T&gt;</span>
+  </div>
+  <div>
+      <span class="xref">System.Collections.IEnumerable</span>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

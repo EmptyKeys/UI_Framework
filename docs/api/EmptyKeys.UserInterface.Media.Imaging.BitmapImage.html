@@ -1,0 +1,497 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class BitmapImage
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class BitmapImage
+   ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage">
+  
+  
+  <h1 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage" class="text-break">Class BitmapImage
+  </h1>
+  <div class="markdown level0 summary"><p>Implements image source loading and drawing</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
+    <div class="level2"><a class="xref" href="EmptyKeys.UserInterface.Freezable.html">Freezable</a></div>
+    <div class="level3"><span class="xref">BitmapImage</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_IsFrozen">Freezable.IsFrozen</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Parent">Freezable.Parent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Changed">Freezable.Changed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Freeze">Freezable.Freeze()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_OnPropertyChanged_EmptyKeys_UserInterface_DependencyProperty_">Freezable.OnPropertyChanged(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_DependencyObjectType">DependencyObject.DependencyObjectType</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_IsSealed">DependencyObject.IsSealed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_Equals_System_Object_">DependencyObject.Equals(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetHashCode">DependencyObject.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ClearValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ClearValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.GetValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ReadLocalValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ReadLocalValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetLocalValueEnumerator">DependencyObject.GetLocalValueEnumerator()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetValue_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetValue(DependencyProperty, Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_CoerceValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.CoerceValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetBinding_EmptyKeys_UserInterface_DependencyProperty_EmptyKeys_UserInterface_Data_Binding_">DependencyObject.SetBinding(DependencyProperty, Binding)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetResourceReference_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetResourceReference(DependencyProperty, Object)</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.Media.Imaging.html">EmptyKeys.UserInterface.Media.Imaging</a></h6>
+  <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
+  <h5 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class BitmapImage : Freezable</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage__ctor_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage__ctor" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.#ctor">BitmapImage()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.html">BitmapImage</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public BitmapImage()</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_TextureAssetProperty" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.TextureAssetProperty">TextureAssetProperty</h4>
+  <div class="markdown level1 summary"><p>The texture asset property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty TextureAssetProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_TextureProperty" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.TextureProperty">TextureProperty</h4>
+  <div class="markdown level1 summary"><p>The texture property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty TextureProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Format_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Format*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Format" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Format">Format</h4>
+  <div class="markdown level1 summary"><p>Gets the format.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public TextureSurfaceFormat Format { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.TextureSurfaceFormat</span></td>
+        <td><p>The format.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_PixelHeight_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.PixelHeight*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_PixelHeight" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.PixelHeight">PixelHeight</h4>
+  <div class="markdown level1 summary"><p>Gets the height of the pixel.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int PixelHeight { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>The height of the pixel.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_PixelWidth_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.PixelWidth*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_PixelWidth" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.PixelWidth">PixelWidth</h4>
+  <div class="markdown level1 summary"><p>Gets the width of the pixel.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int PixelWidth { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>The width of the pixel.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Texture_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Texture*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Texture" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Texture">Texture</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the texture.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public TextureBase Texture { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.TextureBase</span></td>
+        <td><p>The texture.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_TextureAsset_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.TextureAsset*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_TextureAsset" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.TextureAsset">TextureAsset</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the texture asset.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string TextureAsset { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>The texture asset.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Draw_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Draw*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Draw_EmptyKeys_UserInterface_Renderers_Renderer_EmptyKeys_UserInterface_PointF_EmptyKeys_UserInterface_Size_EmptyKeys_UserInterface_Media_ColorW_EmptyKeys_UserInterface_Rect_System_Single_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Draw(EmptyKeys.UserInterface.Renderers.Renderer,EmptyKeys.UserInterface.PointF,EmptyKeys.UserInterface.Size,EmptyKeys.UserInterface.Media.ColorW,EmptyKeys.UserInterface.Rect,System.Single)">Draw(Renderer, PointF, Size, ColorW, Rect, Single)</h4>
+  <div class="markdown level1 summary"><p>Draws image from source position</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Draw(Renderer spriteRenderer, PointF position, Size size, ColorW color, Rect source, float opacity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Renderers.Renderer</span></td>
+        <td><span class="parametername">spriteRenderer</span></td>
+        <td><p>The sprite renderer.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><span class="parametername">position</span></td>
+        <td><p>The position.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Size</span></td>
+        <td><span class="parametername">size</span></td>
+        <td><p>The size.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.ColorW</span></td>
+        <td><span class="parametername">color</span></td>
+        <td><p>The color.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Rect</span></td>
+        <td><span class="parametername">source</span></td>
+        <td><p>The source.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">opacity</span></td>
+        <td><p>The opacity.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Draw_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Draw*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_Imaging_BitmapImage_Draw_EmptyKeys_UserInterface_Renderers_Renderer_EmptyKeys_UserInterface_PointF_EmptyKeys_UserInterface_Size_EmptyKeys_UserInterface_Media_ColorW_System_Single_" data-uid="EmptyKeys.UserInterface.Media.Imaging.BitmapImage.Draw(EmptyKeys.UserInterface.Renderers.Renderer,EmptyKeys.UserInterface.PointF,EmptyKeys.UserInterface.Size,EmptyKeys.UserInterface.Media.ColorW,System.Single)">Draw(Renderer, PointF, Size, ColorW, Single)</h4>
+  <div class="markdown level1 summary"><p>Draws image</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Draw(Renderer spriteRenderer, PointF position, Size size, ColorW color, float opacity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Renderers.Renderer</span></td>
+        <td><span class="parametername">spriteRenderer</span></td>
+        <td><p>The sprite renderer.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><span class="parametername">position</span></td>
+        <td><p>The render position.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Size</span></td>
+        <td><span class="parametername">size</span></td>
+        <td><p>The size.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.ColorW</span></td>
+        <td><span class="parametername">color</span></td>
+        <td><p>The color.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">opacity</span></td>
+        <td><p>The opacity.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,668 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class CommandHelpers
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class CommandHelpers
+   ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers">
+  
+  
+  <h1 id="EmptyKeys_UserInterface_Input_CommandHelpers" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers" class="text-break">Class CommandHelpers
+  </h1>
+  <div class="markdown level0 summary"><p>Implements cache for commands and command register methods</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">CommandHelpers</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.Input.html">EmptyKeys.UserInterface.Input</a></h6>
+  <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
+  <h5 id="EmptyKeys_UserInterface_Input_CommandHelpers_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static class CommandHelpers</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_CanExecuteEvent" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.CanExecuteEvent">CanExecuteEvent</h4>
+  <div class="markdown level1 summary"><p>The can execute event</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly RoutedEvent CanExecuteEvent</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEvent.html">RoutedEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_ExecutedEvent" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.ExecutedEvent">ExecutedEvent</h4>
+  <div class="markdown level1 summary"><p>The executed event</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly RoutedEvent ExecutedEvent</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEvent.html">RoutedEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_PreviewCanExecuteEvent" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.PreviewCanExecuteEvent">PreviewCanExecuteEvent</h4>
+  <div class="markdown level1 summary"><p>The preview can execute event</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly RoutedEvent PreviewCanExecuteEvent</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEvent.html">RoutedEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_PreviewExecutedEvent" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.PreviewExecutedEvent">PreviewExecutedEvent</h4>
+  <div class="markdown level1 summary"><p>The preview executed event</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly RoutedEvent PreviewExecutedEvent</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEvent.html">RoutedEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_AddCanExecuteHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddCanExecuteHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_AddCanExecuteHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_CanExecuteRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddCanExecuteHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler)">AddCanExecuteHandler(UIElement, CanExecuteRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Adds the can execute handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void AddCanExecuteHandler(UIElement element, CanExecuteRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.html">CanExecuteRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_AddExecutedHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddExecutedHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_AddExecutedHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_ExecutedRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddExecutedHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler)">AddExecutedHandler(UIElement, ExecutedRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Adds the preview executed handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void AddExecutedHandler(UIElement element, ExecutedRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.html">ExecutedRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_AddPreviewCanExecuteHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddPreviewCanExecuteHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_AddPreviewCanExecuteHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_CanExecuteRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddPreviewCanExecuteHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler)">AddPreviewCanExecuteHandler(UIElement, CanExecuteRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Adds the preview can execute handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void AddPreviewCanExecuteHandler(UIElement element, CanExecuteRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.html">CanExecuteRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_AddPreviewExecutedHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddPreviewExecutedHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_AddPreviewExecutedHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_ExecutedRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.AddPreviewExecutedHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler)">AddPreviewExecutedHandler(UIElement, ExecutedRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Adds the preview executed handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void AddPreviewExecutedHandler(UIElement element, ExecutedRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.html">ExecutedRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_ExecuteCommandSource_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.ExecuteCommandSource*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_ExecuteCommandSource_EmptyKeys_UserInterface_Input_ICommandSource_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.ExecuteCommandSource(EmptyKeys.UserInterface.Input.ICommandSource)">ExecuteCommandSource(ICommandSource)</h4>
+  <div class="markdown level1 summary"><p>Executes the command source.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void ExecuteCommandSource(ICommandSource commandSource)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ICommandSource.html">ICommandSource</a></td>
+        <td><span class="parametername">commandSource</span></td>
+        <td><p>The command source.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RegisterClassCommandBinding_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RegisterClassCommandBinding*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RegisterClassCommandBinding_System_Type_EmptyKeys_UserInterface_Input_CommandBinding_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RegisterClassCommandBinding(System.Type,EmptyKeys.UserInterface.Input.CommandBinding)">RegisterClassCommandBinding(Type, CommandBinding)</h4>
+  <div class="markdown level1 summary"><p>Registers the class command binding.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RegisterClassCommandBinding(Type controlType, CommandBinding commandBinding)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Type</span></td>
+        <td><span class="parametername">controlType</span></td>
+        <td><p>Type of the control.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.CommandBinding.html">CommandBinding</a></td>
+        <td><span class="parametername">commandBinding</span></td>
+        <td><p>The command binding.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ArgumentNullException</span></td>
+        <td><p>Control Type
+or
+Command Binding</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RegisterClassInputBinding_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RegisterClassInputBinding*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RegisterClassInputBinding_System_Type_EmptyKeys_UserInterface_Input_InputBinding_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RegisterClassInputBinding(System.Type,EmptyKeys.UserInterface.Input.InputBinding)">RegisterClassInputBinding(Type, InputBinding)</h4>
+  <div class="markdown level1 summary"><p>Registers the class input binding.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RegisterClassInputBinding(Type controlType, InputBinding inputBinding)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Type</span></td>
+        <td><span class="parametername">controlType</span></td>
+        <td><p>Type of the control.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.InputBinding.html">InputBinding</a></td>
+        <td><span class="parametername">inputBinding</span></td>
+        <td><p>The input binding.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.ArgumentNullException</span></td>
+        <td><p>controlType
+or
+inputBinding</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RemoveCanExecuteHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemoveCanExecuteHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RemoveCanExecuteHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_CanExecuteRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemoveCanExecuteHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler)">RemoveCanExecuteHandler(UIElement, CanExecuteRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Removes the can execute handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RemoveCanExecuteHandler(UIElement element, CanExecuteRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.html">CanExecuteRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RemoveExecutedHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemoveExecutedHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RemoveExecutedHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_ExecutedRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemoveExecutedHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler)">RemoveExecutedHandler(UIElement, ExecutedRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Removes the preview executed handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RemoveExecutedHandler(UIElement element, ExecutedRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.html">ExecutedRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RemovePreviewCanExecuteHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemovePreviewCanExecuteHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RemovePreviewCanExecuteHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_CanExecuteRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemovePreviewCanExecuteHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler)">RemovePreviewCanExecuteHandler(UIElement, CanExecuteRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Removes the preview can execute handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RemovePreviewCanExecuteHandler(UIElement element, CanExecuteRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.html">CanExecuteRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Input_CommandHelpers_RemovePreviewExecutedHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemovePreviewExecutedHandler*"></a>
+  <h4 id="EmptyKeys_UserInterface_Input_CommandHelpers_RemovePreviewExecutedHandler_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Input_ExecutedRoutedEventHandler_" data-uid="EmptyKeys.UserInterface.Input.CommandHelpers.RemovePreviewExecutedHandler(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler)">RemovePreviewExecutedHandler(UIElement, ExecutedRoutedEventHandler)</h4>
+  <div class="markdown level1 summary"><p>Removes the preview executed handler.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RemovePreviewExecutedHandler(UIElement element, ExecutedRoutedEventHandler handler)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></td>
+        <td><span class="parametername">element</span></td>
+        <td><p>The element.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.html">ExecutedRoutedEventHandler</a></td>
+        <td><span class="parametername">handler</span></td>
+        <td><p>The handler.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

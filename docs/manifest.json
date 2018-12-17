@@ -1,0 +1,4871 @@
+{
+  "homepages": [],
+  "source_base_path": "E:/!Prog/TFS/LogicMarbles/UIGenerator/GameUserInterface",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Charts.Chart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Charts.Chart.html",
+          "hash": "y52fSgdmfNsN1EoweHodWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Charts.LineSeries2D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Charts.LineSeries2D.html",
+          "hash": "kno2HNkZm1SbnS+2tV5nlA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Charts.SeriesPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Charts.SeriesPoint.html",
+          "hash": "gmNIHv0Z4RhLtDdPXauEDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Charts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Charts.html",
+          "hash": "lX6oyTdtWshuHvd5uvwtHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ClassHandlersStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ClassHandlersStore.html",
+          "hash": "7z35iyBF1fOR6TY1B6Tk2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.CoerceValueCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.CoerceValueCallback.html",
+          "hash": "K8NgRpOHlqU7wdLb0YxHQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ContextLayoutManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ContextLayoutManager.html",
+          "hash": "sVMqmq7qLiODDnbIHWHsuw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.AnimatedImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.AnimatedImage.html",
+          "hash": "4p/OU3SKnbnr30RtG5JuIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Border.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Border.html",
+          "hash": "9M+RqvxenuQl7bV/7V/Z9w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Button.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Button.html",
+          "hash": "EWtWiqAZYAzNbx9/QH9GEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Canvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Canvas.html",
+          "hash": "++MyINSR7Kk3L2zG+J5y3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.CheckBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.CheckBox.html",
+          "hash": "Vj8HBv6oDArkjOoQMz2FFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ClickMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ClickMode.html",
+          "hash": "slyxXww05lrBkcXGSgYIKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ColumnDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ColumnDefinition.html",
+          "hash": "O6EoLIG6U9D2SD/9+OXP/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ColumnDefinitionCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ColumnDefinitionCollection.html",
+          "hash": "VEfA8VQxzVaBp4Ht9YkFSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBox.html",
+          "hash": "4UHGGNrbeP65hiuf88gxjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBoxItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBoxItem.html",
+          "hash": "JvswHCSAV0C1n/ivcXCBjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ContentControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ContentControl.html",
+          "hash": "Ccn8irMrKe7/DNK8/RwpwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ContentPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ContentPresenter.html",
+          "hash": "N1PNVA99afm1icKO45mq2g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Control.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Control.html",
+          "hash": "sg5FVcxUaNileh8mU6DZSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ControlTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ControlTemplate.html",
+          "hash": "AjeRA49sUCHbjwVc/E3ocg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGrid.html",
+          "hash": "U40WwLKjNMl01+Ixh2q6pA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridBoundColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridBoundColumn.html",
+          "hash": "dUMspEpHPtulxm1rYff/EQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridCell.html",
+          "hash": "yEZKmXkp1TTt+xp2bQo+4g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridCheckBoxColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridCheckBoxColumn.html",
+          "hash": "wM6G4hhn4xTYE36PzXtgng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumn.html",
+          "hash": "LZSjyQGnWH0fj3FfZ4ymtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumnCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumnCollection.html",
+          "hash": "hHrGq20QObwPCrlEzFrZFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumnEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridColumnEventArgs.html",
+          "hash": "wZJ+tMoKdDhKCB7+ZxmZjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridLength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridLength.html",
+          "hash": "j+RBRN/4oEuZ+WVye6XpDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridLengthUnitType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridLengthUnitType.html",
+          "hash": "L7tv00WkeI3iOvvYbCHioA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridRow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridRow.html",
+          "hash": "x90VZ6yVT/yFiPAcrdS5Rw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSelectionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSelectionMode.html",
+          "hash": "VP/XHLD/y8VdjcAnDqI8oQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs.html",
+          "hash": "rJUsvjeFzp3gD2faTPBc5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSortingEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridSortingEventHandler.html",
+          "hash": "3j4+gNo+uZTCJa6jJKQ6VA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridTemplateColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridTemplateColumn.html",
+          "hash": "WIptcAmft542ZPQKuy7ehw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridTextColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGridTextColumn.html",
+          "hash": "hbHN7UwtJYDAA+wH4U5fxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DefinitionBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DefinitionBase.html",
+          "hash": "vGcAQQsm73lZXkF2CdV6OQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Dock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Dock.html",
+          "hash": "i+/fJOkfqVaNOvj2wuBupg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.DockPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.DockPanel.html",
+          "hash": "TOKEdvsQAXuFLK2yi+ugNA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ExpandDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ExpandDirection.html",
+          "hash": "HVQIqMlMIasv/uEukxKGTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Expander.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Expander.html",
+          "hash": "WAdQu66PXKaStmhMen8d2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Grid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Grid.html",
+          "hash": "7ORDXqDWZRC4MYDlSdWm8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.GroupBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.GroupBox.html",
+          "hash": "+gsq47XURYWKpKbVavNZBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.HeaderedContentControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.HeaderedContentControl.html",
+          "hash": "jOpjTPkZ8CDt+FGfm7bR5A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.HeaderedItemsControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.HeaderedItemsControl.html",
+          "hash": "ArvNbcngqOJtmDDwzL+1kQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Image.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Image.html",
+          "hash": "+nOtxx8rtrP4yfwPNAFZKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ImageButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ImageButton.html",
+          "hash": "gqVkJgE24DEfQt0cGFH3bQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ItemsControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ItemsControl.html",
+          "hash": "oNnYYXWzvKXRJlU534+16w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ListBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ListBox.html",
+          "hash": "h1woaaAsJR6q4kJtaDERLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ListBoxItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ListBoxItem.html",
+          "hash": "gTqERapPAQHmCHmWPtmNzA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.NumericTextBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.NumericTextBox.html",
+          "hash": "HODNAz2Mmp8Qz8GHu49l4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Panel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Panel.html",
+          "hash": "uSXrt4KiPNDBqvmJVbSfNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.PanningMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.PanningMode.html",
+          "hash": "Dvz0B6BfkjuUk7U66rcx8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.PasswordBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.PasswordBox.html",
+          "hash": "8irHOBr9bZyR1rJ2SlizQg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridCellsPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridCellsPresenter.html",
+          "hash": "l/0HMYrZeZq7hOCGLPb5LA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridColumnHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridColumnHeader.html",
+          "hash": "c6q/vkDu9ISnENFuSuyobg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridColumnHeadersPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DataGridColumnHeadersPresenter.html",
+          "hash": "iCxY3kX5g3mmHXFj4EkceQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragCompletedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragCompletedEventArgs.html",
+          "hash": "W7wR+tNgPmE66dEPanZwTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragCompletedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragCompletedEventHandler.html",
+          "hash": "9SFC1yYzZJVKPOpFrHMd3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragDeltaEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragDeltaEventArgs.html",
+          "hash": "HaXwBaMh8dRW4dPsxxZLTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragDeltaEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragDeltaEventHandler.html",
+          "hash": "4BaDDTF6vuWXSacuZBZvtg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragStartedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragStartedEventArgs.html",
+          "hash": "d0bLOgt24ttKHKJFvrUU7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragStartedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.DragStartedEventHandler.html",
+          "hash": "4jXfWRYPvAEFUZTjE1Gw+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.IScrollInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.IScrollInfo.html",
+          "hash": "SfzxG8zkACWkrnh5SpBVKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.PlacementMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.PlacementMode.html",
+          "hash": "DOg87SJxFPE+T91UbV752Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Popup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Popup.html",
+          "hash": "OzHB8x3OKxGwccv5x+Ma4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.RangeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.RangeBase.html",
+          "hash": "8VKV6DyyNEgT/KLgetYaIQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html",
+          "hash": "cQGx0woRjMVTYjNOJMn2BA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollBar.html",
+          "hash": "7oFqzXgITygZJoKldfdlEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventArgs.html",
+          "hash": "g8HKcb4Nj5ujFfcG6acO0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventHandler.html",
+          "hash": "P+mbt68q3CagNp5GBjqQzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ScrollEventType.html",
+          "hash": "ZJz7HWjsyBKZyVrvYcHHiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Selector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Selector.html",
+          "hash": "XGpIy778DtUXpTkBY9s6jQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.TabPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.TabPanel.html",
+          "hash": "PgtdISEMJgc3b2b+6wO5CQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.html",
+          "hash": "7q1QBACB/htxyhHusTlRFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Thumb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Thumb.html",
+          "hash": "hLEAIscGJLDU3rsBTV8Mcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ToggleButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.ToggleButton.html",
+          "hash": "am4KVq9aHGsHl5OAlIQ2Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Track.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Track.html",
+          "hash": "pbC8nSUszJNmTqItlzWlWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.html",
+          "hash": "o8ApVYKIv/0ISsaeQs8uAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ProgressBar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ProgressBar.html",
+          "hash": "ai437wR9EjV8ZGs8DmR2dA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.RadioButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.RadioButton.html",
+          "hash": "jARNiTX9V1LNCfmGxIUSUw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.RowDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.RowDefinition.html",
+          "hash": "CL4LsjT6iKr1qJpFiyqg1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.RowDefinitionCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.RowDefinitionCollection.html",
+          "hash": "SKOglRwIGXRCxzLEz9e+KQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollBarVisibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollBarVisibility.html",
+          "hash": "rGxAukQ1VXWrFOcial2WCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollChangedEventArgs.html",
+          "hash": "4sc79W6RUraKivhK3s6l0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollChangedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollChangedEventHandler.html",
+          "hash": "nFHpVxYDgH40o8qZPP46kA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollContentPresenter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollContentPresenter.html",
+          "hash": "+VHKNThKJgcFtFRGJdbkTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollViewer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollViewer.html",
+          "hash": "uJj4uU2U+/Cg2mAbAsMASQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollViewerAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollViewerAction.html",
+          "hash": "SlJRaHsSMFl8xbUR1W7OPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionChangedEventArgs.html",
+          "hash": "UPJnUZFr0LWuPIHFT/Tq9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionChangedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionChangedEventHandler.html",
+          "hash": "mNwkQXYBhVWXYkMpsRFjlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.SelectionMode.html",
+          "hash": "UcGb3vfeGjPJ4JnrYLaDYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.Slider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.Slider.html",
+          "hash": "4e25awHuZLBmbxKzTw/GQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.StackPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.StackPanel.html",
+          "hash": "3vObSFcsIlBUrWfl8I99iA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TabControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TabControl.html",
+          "hash": "ASVQCJCgUYrxOFUnfrjIfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TabItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TabItem.html",
+          "hash": "u/aADm7Msah2FXq6Wtxtdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TextBlock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TextBlock.html",
+          "hash": "3aZxiQNDFJnZS4jvp5VR8w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TextBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TextBox.html",
+          "hash": "jj1xT1G7ApReiBBeGy/qHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TextWrapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TextWrapping.html",
+          "hash": "CC9K/FHyfBMEt7VVB2SsEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ToolTip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ToolTip.html",
+          "hash": "LTLIG3vNGZgHeO1dGB42bQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.ToolTipService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.ToolTipService.html",
+          "hash": "QfcST//v67Bg3CfQHtv/1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TreeView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TreeView.html",
+          "hash": "J1NkjZwLg6tWCwo5UBJZhA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.TreeViewItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.TreeViewItem.html",
+          "hash": "fEh6DKEUy4Zp9HE25aUoHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.UIElementCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.UIElementCollection.html",
+          "hash": "kXdtZ9sb9OTVe3OEJal/fQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.UIRoot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.UIRoot.html",
+          "hash": "0f9/F/bxGQYhzwjU1QITnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.UniformGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.UniformGrid.html",
+          "hash": "OqhM+0jZeDhbw4oSY7TvZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.UserControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.UserControl.html",
+          "hash": "2cIUy/ysA4PcxGdaNiVCXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboard.html",
+          "hash": "WxBtupvh+bw0nkF6tVeYFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboardKeyDeactivatedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboardKeyDeactivatedEventHandler.html",
+          "hash": "yy0cQO4vDjgZ1TJnXC2kkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboardKeyPressEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.VirtualKeyboardKeyPressEventHandler.html",
+          "hash": "dbqwqlDhsKBHS0utqgASvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.WrapPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.WrapPanel.html",
+          "hash": "bb+WZ1nRvRRelcav3kjImw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.html",
+          "hash": "PguedcDYRt0Mj/xMrQmEhA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.Binding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.Binding.html",
+          "hash": "+VZxjc3WsksjGUsxwa1TBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.BindingExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.BindingExpression.html",
+          "hash": "Ucxv7P/7TCWxSXhaHQkbWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.BindingMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.BindingMode.html",
+          "hash": "OUQjf/oRD9QVJ/xcR3Zn/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.BindingOperations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.BindingOperations.html",
+          "hash": "q0gglX1o3CTCmFJF3NmRHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.BooleanToVisibilityConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.BooleanToVisibilityConverter.html",
+          "hash": "Qt2vACBUI6oKZahfS/qXlg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.ColorBrushConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.ColorBrushConverter.html",
+          "hash": "pp1QBljNoJPiQEUFQ71l7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.DefaultValueConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.DefaultValueConverter.html",
+          "hash": "qVpUE0mt3gKvKtvcayvP+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.GeneratedPropertyInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.GeneratedPropertyInfo.html",
+          "hash": "fGg+RD4+nt6kOsqrd0Zq5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.IPropertyInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.IPropertyInfo.html",
+          "hash": "PLEQSv+PmyHqjWYOZnrSWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.IValueConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.IValueConverter.html",
+          "hash": "ibYlgpESET3SlHJpBmAIWw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.ObjectSourceConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.ObjectSourceConverter.html",
+          "hash": "D1CQIPw1ygg+LT4LcIGlvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.ObjectTargetConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.ObjectTargetConverter.html",
+          "hash": "yZFslwj07MoSf5IRZaWwuw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.PropertyPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.PropertyPath.html",
+          "hash": "RecWx9uDOh7xDK2uDslpgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.ReflectionPropertyInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.ReflectionPropertyInfo.html",
+          "hash": "ZcbmgRLPApmhVMQSq5erQQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.StringToVisibilityConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.StringToVisibilityConverter.html",
+          "hash": "Kq3Dysrch9NBYXXbNZ9tSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.SystemConvertConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.SystemConvertConverter.html",
+          "hash": "FlwCNThEPuMj9HOgxLoJqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.ValueConverterAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.ValueConverterAttribute.html",
+          "hash": "dlsBjooUJSBMYBtCHXqVpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Data.html",
+          "hash": "mMrfn2MgZPUWCROLtw8FFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DataTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DataTemplate.html",
+          "hash": "bbpKEMPLEz8A+dn0tKvCTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DefinitionCollection-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DefinitionCollection-1.html",
+          "hash": "9iEXmd0//ZfGZV+prH8jpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DependencyObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DependencyObject.html",
+          "hash": "38oNgzi62LWbHBGw2ie36A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DependencyObjectType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DependencyObjectType.html",
+          "hash": "me8NK4fwboMYhBwJAkzoKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DependencyProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DependencyProperty.html",
+          "hash": "WIvjhCwAwQ+k66mO0aHv7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs.html",
+          "hash": "6ViOLSNF2briFw/R/9PUrw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DependencyPropertyChangedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DependencyPropertyChangedEventHandler.html",
+          "hash": "1CwCYrF09ihjvlt8L8q5aQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Documents.IUndoMemento-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Documents.IUndoMemento-1.html",
+          "hash": "c/ifaRLDffhmm32OHE3DtA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Documents.TextHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Documents.TextHelper.html",
+          "hash": "dz5aqmQAN4ttWPxumar3Jw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Documents.UndoManager-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Documents.UndoManager-1.html",
+          "hash": "FDdY2kXk7Fsryu7btzS/vw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Documents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Documents.html",
+          "hash": "2RK/tmzB+3mH81TlOkvqwg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DragDrop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DragDrop.html",
+          "hash": "q3JGJazE+ppA57VKVBY1Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DragDropEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DragDropEventArgs.html",
+          "hash": "QlSdkNmXWRUAF8SodQ7nEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.DragDropEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.DragDropEventHandler.html",
+          "hash": "HUcesA39aNTZYinqcK+9yg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Duration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Duration.html",
+          "hash": "sgkekDMRATqGolgWs7Xgvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.EventHandlersStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.EventHandlersStore.html",
+          "hash": "azYS9pTiBbscLCfZ6c26sQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.EventManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.EventManager.html",
+          "hash": "TieEMa5TZ6opJBY0grdZ3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.EventRoute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.EventRoute.html",
+          "hash": "49DfKJUkWqAZB308wDxmyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.EventTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.EventTrigger.html",
+          "hash": "m8yYTaESQRvkyGhw8zM2mg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.FontHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.FontHelper.html",
+          "hash": "K+QzPj+LO7quBTMa4taAjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.FontManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.FontManager.html",
+          "hash": "O07eZJsKG3hCdXyrIzSLMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.FrameworkPropertyMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.FrameworkPropertyMetadata.html",
+          "hash": "4U8stdPS6QdJnYyv6S1PiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.FrameworkPropertyMetadataOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.FrameworkPropertyMetadataOptions.html",
+          "hash": "cpK9h11GzedD8e4eAF/Wpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Freezable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Freezable.html",
+          "hash": "sBmuguekyijE6EKaI8hk2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.FreezablePropertyChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.FreezablePropertyChanged.html",
+          "hash": "mTc8KZsXmMxSV7OICyBa0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.GridLength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.GridLength.html",
+          "hash": "Ag54p7SgNBxUc7Im410YHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.GridUnitType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.GridUnitType.html",
+          "hash": "/taXUGQzQrXddT+cgcqGkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.HorizontalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.HorizontalAlignment.html",
+          "hash": "GIvAH8pB4ia90YXRaYjchg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ImageManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ImageManager.html",
+          "hash": "zbHfFWBX+O2cf3e7YdJH7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ButtonInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ButtonInputListener.html",
+          "hash": "gFTTUunI6ot6EOeNSTNiWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.CanExecuteRoutedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.CanExecuteRoutedEventArgs.html",
+          "hash": "IjH2IHSMGt47zTrDrUEAbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.CanExecuteRoutedEventHandler.html",
+          "hash": "sU5mEOClk47XPn3vCUt2CQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.CommandBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.CommandBinding.html",
+          "hash": "SNkUqrw7MZWQhER8whyJVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.CommandHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.CommandHelpers.html",
+          "hash": "ggaY8PKvus5BGNkK+U3ebg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.CursorType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.CursorType.html",
+          "hash": "ipJox8G77ao9aVJkp1WRew=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ExecutedRoutedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ExecutedRoutedEventArgs.html",
+          "hash": "GrnCFqSIGpiw3ZEtDeMUZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ExecutedRoutedEventHandler.html",
+          "hash": "NvD5gR3v58+T3YyqEuAi0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.Gamepad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.Gamepad.html",
+          "hash": "ZW/vf97thOkEedL/HUHcCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadBinding.html",
+          "hash": "4Zbf0wTxeODHw4yuK5fO1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html",
+          "hash": "ll0u+Bjvojv4pYTOoJo3Dg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventHandler.html",
+          "hash": "cnJtziNsPvvSzO0m6/O5vw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadEventArgs.html",
+          "hash": "97l2/88MALkBxp3QEhrDGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadEventHandler.html",
+          "hash": "FBwUbTcMOaASlvCq6pgyvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadGesture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadGesture.html",
+          "hash": "MecXSvNLwjMhX6BnMdDYGA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadInput.html",
+          "hash": "fDh4oNYtYNf4I3dXJMtTnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.html",
+          "hash": "icVuYgSwltKMlob6eo3K1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventHandler.html",
+          "hash": "4TMmBY65RbQVl3vB2SHk6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerDelegate.html",
+          "hash": "6/vjqwrjGUZRFI+jjH/ADw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs.html",
+          "hash": "o+HIebfNNzDvge+6M5IXiQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerEventHandler.html",
+          "hash": "kArkv4k0MdcQ9+Hjf1xg5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadTriggerInputListener.html",
+          "hash": "CPcr4yLPZBYi5klYGd5FEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GestureDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GestureDelegate.html",
+          "hash": "2+vpnjHCjhFAKEnlpilu7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ICommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ICommand.html",
+          "hash": "f9lainqkzVKbLa1FrpOhWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ICommandSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ICommandSource.html",
+          "hash": "kF85fU9WZpoYGriWVXaBmw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ICursorService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ICursorService.html",
+          "hash": "MYQYgEXy8XPpQGZ26pS+Mw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.IInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.IInputListener.html",
+          "hash": "6z17bPpWeW7MFFrGXIMQCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputBinding.html",
+          "hash": "jMiZVAawrLVdugpZn9pDrw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputEventArgs.html",
+          "hash": "Amg2AiyzZLA45/IkawVzxw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputEventHandler.html",
+          "hash": "SNiiyRCK4XfkZF8ANfh96w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputGesture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputGesture.html",
+          "hash": "AC4kmBNgeyIkaCrXCeu6og=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputLanguageManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputLanguageManager.html",
+          "hash": "47ZdG5AtL0DrZoFfB9N2Lg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputListener-1.InputListenerGetCurrentValueDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputListener-1.InputListenerGetCurrentValueDelegate.html",
+          "hash": "D+bds1L89aRMtQFcg8Lekg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputListener-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputListener-1.html",
+          "hash": "tOQ0BlD4sbXy1aHz4ZcJeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputListenerDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputListenerDelegate.html",
+          "hash": "1ylFaqk5ix/vvZFq6VjkUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.InputManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.InputManager.html",
+          "hash": "SuXw9nXQKeFFS0zD8tXmeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyBinding.html",
+          "hash": "NGKzLrnZZHqHhGorovslPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyEventArgs.html",
+          "hash": "tCaeIzHuiH9sSfLJWdrKvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyEventHandler.html",
+          "hash": "ZdnCHc6O6uwlyZy49YzP4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyGesture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyGesture.html",
+          "hash": "4z9VAgT9Eotn3pWgzwrMyw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyInputListener.html",
+          "hash": "oPxyST2ygYVMd0staUeecg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyInputListenerDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyInputListenerDelegate.html",
+          "hash": "0U4Vc0MuKBnEJ1jascaBrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.Keyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.Keyboard.html",
+          "hash": "jN040rgosZFozhSbfamiTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardEventArgs.html",
+          "hash": "eluqK2rG0NN1hkmve88j7A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardEventHandler.html",
+          "hash": "RmpT94EPyuxhZunwsxgYXg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardLayout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.KeyboardLayout.html",
+          "hash": "W46HE9R44MeHr3InErK2dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MapItemType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MapItemType.html",
+          "hash": "tI9/FvJd61pbNZPpFCMMHQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.ModifierKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.ModifierKeys.html",
+          "hash": "8X1FF44DrTxZcWdedJZl0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.Mouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.Mouse.html",
+          "hash": "eSrN7k7FFfFqZdU7DzXKtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseAction.html",
+          "hash": "WxOo9GU6K3djxervMHfL2w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseBinding.html",
+          "hash": "+rnVs1RYkwDmI34bXP5qrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseButton.html",
+          "hash": "APQSvinO0MriNA3k2p87dg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseButtonEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseButtonEventArgs.html",
+          "hash": "5aoiHAueRFM0VDKr7TUTwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseButtonEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseButtonEventHandler.html",
+          "hash": "WRR54P6vc5IbrZPSTrFPKw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseEventArgs.html",
+          "hash": "+heH1VFr1BSNSMXiHOpEXQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseEventHandler.html",
+          "hash": "8A36aha61Xx0TUX2GYffvg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseGesture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseGesture.html",
+          "hash": "vk4P4uxQ5cbrcUf1MDpkFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelDelegate.html",
+          "hash": "74MMZgNjN62dc1gTjkFE8Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelEventArgs.html",
+          "hash": "9XHL9A3NVewPDDniSB8trQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelEventHandler.html",
+          "hash": "F5uZ+YZNaFl02ekfN8v9QA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MouseWheelInputListener.html",
+          "hash": "ct2Kvexh5m429mEi640rnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MoveDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MoveDelegate.html",
+          "hash": "+gwHThZt9YfhvHDJevbelA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.MoveInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.MoveInputListener.html",
+          "hash": "+/Ae7ndbOxmTmUcqHw2p5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.NullInputDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.NullInputDevice.html",
+          "hash": "1kaJAMCfXWLj88GOhpjAUg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.RelayCommand-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.RelayCommand-1.html",
+          "hash": "4vcMWD5fivrM3Bw5Be5ipA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.RelayCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.RelayCommand.html",
+          "hash": "JhHV+Y/+kj4FnwpYYu4fbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.RepeatInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.RepeatInputListener.html",
+          "hash": "m1ppTgzKNfCdTQBzimGEbg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.RoutedCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.RoutedCommand.html",
+          "hash": "H1IAJ2lJ4TxPswf1fp70Uw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.Touch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.Touch.html",
+          "hash": "e3jSGG11jawnb8+Q2yY3NQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchEventArgs.html",
+          "hash": "5o6P0fYq8IuNgQH8gGTXoA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchEventHandler.html",
+          "hash": "4YDQ3NVA6mEvB1KvzqD0hg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchGesture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchGesture.html",
+          "hash": "kiqBBPNM2MD0urO3Mf1Dww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureEventArgs.html",
+          "hash": "BKW4dR5A6hRtfBubCZ8lRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureEventHandler.html",
+          "hash": "eqZnsu/lrZkIrwBCmJA3fA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchGestureInputListener.html",
+          "hash": "VIvRb0nFUrnsarlD2G2y2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.TouchInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.TouchInputListener.html",
+          "hash": "n6RRHflfjov3EPbEiZbAqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.VirtualKeyboardMapItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.VirtualKeyboardMapItem.html",
+          "hash": "6oN1HJu11fPGUn1uBpu7MA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.VirtualKeyboardMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.VirtualKeyboardMode.html",
+          "hash": "Kjtt91pI/1UtnOLjc9g+Pg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.html",
+          "hash": "irEjrOT27Y4lDyRtfYqnpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.CallMethodAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.CallMethodAction.html",
+          "hash": "tl0bwc5RQ+8Z+dk2qbamsA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.ChangePropertyAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.ChangePropertyAction.html",
+          "hash": "OkUbPyPu6T6zXxQp171ZxQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.EventTriggerBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.EventTriggerBehavior.html",
+          "hash": "FYJT5WipaDZrPKzo/HV0aw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.InvokeCommandAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.InvokeCommandAction.html",
+          "hash": "Uq4s4ZnxPn/gg+7MW6dD5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.PlaySoundAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.PlaySoundAction.html",
+          "hash": "3Cce2YiWjncTdz1f+aIvpQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactions.Core.html",
+          "hash": "izt7TOWbCuvQXCI0Pgi7VA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.ActionCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.ActionCollection.html",
+          "hash": "PrpuaANmiWvG6CH8aLh8mQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.Behavior-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.Behavior-1.html",
+          "hash": "vJO8KVvtyfh55C4QgfnvvA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.Behavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.Behavior.html",
+          "hash": "HV/fZHNRGM3qymGVF1eZ/g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.BehaviorCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.BehaviorCollection.html",
+          "hash": "2zbqSgeMbBp/4HrNK820tQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.CollectionChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.CollectionChange.html",
+          "hash": "JVjTiMmJ31R5NmdGWet/8A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.DependencyObjectCollection.html",
+          "hash": "1GLSX7yRNYq4A2+eKsrvbw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.IAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.IAction.html",
+          "hash": "jEqTtgkXE+soJgpLAdrOOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.IBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.IBehavior.html",
+          "hash": "5E+Tc0xkPwbeOiVDPyZ4+w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.IObservableVector-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.IObservableVector-1.html",
+          "hash": "CmVEcepcUEUMrqVWIN5BwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.IVectorChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.IVectorChangedEventArgs.html",
+          "hash": "UEZFE5yZ28vKnLy62OgkiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.Interaction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.Interaction.html",
+          "hash": "IJPhMeyoFaSe82c3SUlEHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.VectorChangedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.VectorChangedEventArgs.html",
+          "hash": "35N2iLZAQc1R6fJxN4vVEQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.VectorChangedEventHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.VectorChangedEventHandler-1.html",
+          "hash": "e+crAhvAWMdeQI63d9V4FA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Interactivity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Interactivity.html",
+          "hash": "stLZ5bub8nAoAtkt6nAJPQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ListSortDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ListSortDirection.html",
+          "hash": "SUP/S+b4RZWApcwjMs36Kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.LocalValueEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.LocalValueEntry.html",
+          "hash": "EarRQGXi2Za9A/eeg+/7Bg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.AnimatedImageBrush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.AnimatedImageBrush.html",
+          "hash": "Ff9SpeOb5TYuAGxtDejuZg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.AnimationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.AnimationManager.html",
+          "hash": "Tk/GHKwvj5VLQus435L/FQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BackEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BackEase.html",
+          "hash": "IdqD1WZZJWF+F2z9BpYHjg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BaseAnimation-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BaseAnimation-2.html",
+          "hash": "jeQtDPIXaewDGZ9dmiJnxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BeginStoryboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.BeginStoryboard.html",
+          "hash": "8b3LSsRRPAG1RDCa5tmAWg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.CubicEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.CubicEase.html",
+          "hash": "Xt3R5OeqHpDpbu/fUw72dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.EasingFunctionBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.EasingFunctionBase.html",
+          "hash": "P6oKjjwch9GpJy2BVpemnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.EasingMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.EasingMode.html",
+          "hash": "9xN6oRLR8CYJh6to53VJoA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ElasticEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ElasticEase.html",
+          "hash": "NsRP6sc7Emdnmh18Nc5DtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ExponentialEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ExponentialEase.html",
+          "hash": "w9F/fkBdbHC9VvAtFS7y5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.FloatAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.FloatAnimation.html",
+          "hash": "WAoFa0VPlgQDFSTO1O6BBQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.PowerEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.PowerEase.html",
+          "hash": "gQyE44FpU7GigVrzW/KcYg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.QuadraticEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.QuadraticEase.html",
+          "hash": "sa7bhBUwbTLIUK7b8fpZbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.RepeatBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.RepeatBehavior.html",
+          "hash": "gl4hh5wsjoJ1TP+F/5tE2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.SineEase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.SineEase.html",
+          "hash": "Ml/AQDuwWGZbYXx6PKSh5Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.SolidColorBrushAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.SolidColorBrushAnimation.html",
+          "hash": "cCv/IPT/pkynt6uAe1VAIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.Storyboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.Storyboard.html",
+          "hash": "VAGZNk0Trg+uR1yQ1peYHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ThicknessAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.ThicknessAnimation.html",
+          "hash": "v2m5JM1R6rceFnoKI3Sbdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.Timeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.Timeline.html",
+          "hash": "eZ3GuCxlYrRtfsPOjd7EEw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Animation.html",
+          "hash": "bdoH8t58ILMPEd9d1lnBIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Brush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Brush.html",
+          "hash": "+yVP7K6dMNpzq0qxtjEFKA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.BrushMappingMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.BrushMappingMode.html",
+          "hash": "PU3Q4+aZo+lhk89j7LEj7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Brushes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Brushes.html",
+          "hash": "PzRMK6JXFhY4Pfh7PQRRCA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Effects.CustomEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Effects.CustomEffect.html",
+          "hash": "EMIQUSHj26dlZwj1jy4Rhw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Effects.DirectionalBlurEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Effects.DirectionalBlurEffect.html",
+          "hash": "nMiKaQVYMNfqQGP+/0j98g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Effects.Effect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Effects.Effect.html",
+          "hash": "3jZpmleaAly76d//IlrxVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Effects.EffectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Effects.EffectManager.html",
+          "hash": "pj1A1v9um2iTzRC942ZPbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Effects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Effects.html",
+          "hash": "SBoOh0dWOm6tehlT2VeujA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.EllipseGeometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.EllipseGeometry.html",
+          "hash": "utcVKn43Iy939zsIi/6VRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.FontFamily.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.FontFamily.html",
+          "hash": "sjv4JaR9Kd0ed7oqTuSPdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.FontStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.FontStyle.html",
+          "hash": "NJRQ1EZmQswBKsVqO0fpmQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Geometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Geometry.html",
+          "hash": "Z65uU9v1riiV1j5ZA96FAw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.ImageBrush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.ImageBrush.html",
+          "hash": "vJsS6g66SGr6SSWkQEf/qA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Imaging.BitmapImage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Imaging.BitmapImage.html",
+          "hash": "5H6jy829FRCUI0ubbRxo3w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Imaging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Imaging.html",
+          "hash": "iaYa5ZKYT7lp3j9iDdhiVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.LineGeometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.LineGeometry.html",
+          "hash": "ub3EAaRDld4TAtA7oICTPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.LinearGradientBrush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.LinearGradientBrush.html",
+          "hash": "+lxEO/0VKspUSc2R1dhsXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.NullAudioDevice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.NullAudioDevice.html",
+          "hash": "wcSfl9Mn/0kBat8Bq+96Sw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.NullSound.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.NullSound.html",
+          "hash": "FWIxR+VFYMJQFYe9o1HB4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.PolyLineGeometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.PolyLineGeometry.html",
+          "hash": "6ejP80Bsnnp4O6WV9oVMqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.RectangleGeometry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.RectangleGeometry.html",
+          "hash": "RhUrsg19EYg5h2IS6KCUDg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.SolidColorBrush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.SolidColorBrush.html",
+          "hash": "TnMw2VAJr6u9tezkWostdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.SoundManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.SoundManager.html",
+          "hash": "lOYsIsDzsVhP0kYw+4ddkA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.SoundSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.SoundSource.html",
+          "hash": "uocU1hycLJ99GgMJDogILQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.SoundSourceCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.SoundSourceCollection.html",
+          "hash": "oUe8VPVzgVtIWeemujQZ1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.SoundType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.SoundType.html",
+          "hash": "2nS2CzJiXkQl4PtlmevOAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Stretch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Stretch.html",
+          "hash": "SNy1eZsnmIlDHluiRU6cAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.Texture2DHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.Texture2DHelper.html",
+          "hash": "aUocj3AFppoZetDA+3nJgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.VisualTreeHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.VisualTreeHelper.html",
+          "hash": "+Ztu1C5Gs8hHMO8NBy+XAA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Media.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Media.html",
+          "hash": "1k4+xeEPTJ5yyY5SAIJxBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.MessageBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.MessageBox.html",
+          "hash": "iANYT+atAZiOTLEHojf4MA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.MessageBoxButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.MessageBoxButton.html",
+          "hash": "9QRenekHhMgCyhXd2J3/wQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.MessageBoxResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.MessageBoxResult.html",
+          "hash": "D/subbXKuB8v8CE27Vh7ng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.BindableBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.BindableBase.html",
+          "hash": "JB8/4bEDrqkbue98uc17RA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.IClipboardService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.IClipboardService.html",
+          "hash": "gADiqhe5r5kiswASFmuZSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.IFileStorage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.IFileStorage.html",
+          "hash": "JJ65r4KR296YjS84nN98dg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.ILocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.ILocalizationService.html",
+          "hash": "8z11QO6tW85u03T74bvFpw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.IMessageBoxService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.IMessageBoxService.html",
+          "hash": "zhWfOWIZsi2SI+4srGtYHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.ITreeDataItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.ITreeDataItem.html",
+          "hash": "he6gFJLBYvRT/DVrqxpL2Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.MessageBoxService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.MessageBoxService.html",
+          "hash": "65HX22fHSWZ+cPHkRmrjpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.ServiceManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.ServiceManager.html",
+          "hash": "I37Mz2UkEi3QQrMyi+MtOg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.ViewModelBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.ViewModelBase.html",
+          "hash": "emQMk2cnuqVh5wFmwMqU3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.ViewModelLocatorBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.ViewModelLocatorBase-1.html",
+          "hash": "n8wvjTpBAms8ZIwxQkhcug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.WindowViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.WindowViewModel.html",
+          "hash": "xlsqXnR/JLlM6nW2mfoHwQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Mvvm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Mvvm.html",
+          "hash": "p2p1K5s1w1ABEDarYteU/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.NullAssetManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.NullAssetManager.html",
+          "hash": "45sXpODJ+zOOZmxWOP29QA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.NullEngine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.NullEngine.html",
+          "hash": "5Y3doDGf65K+uU6ZS0+LjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Orientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Orientation.html",
+          "hash": "naUbL9Z8kWNZstbkrhqcWQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.PropertyChangedCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.PropertyChangedCallback.html",
+          "hash": "4Xk1bQqYqyoswRNvNAdT6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Renderers.NullRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Renderers.NullRenderer.html",
+          "hash": "BhQWk/XJc7X8Sml+cu9U0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Renderers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Renderers.html",
+          "hash": "uM2CXNlzIeL5p1QzRewyLQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RequestBringIntoViewEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RequestBringIntoViewEventArgs.html",
+          "hash": "JKgnYgkk8UJV+w2m463EbQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RequestBringIntoViewEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RequestBringIntoViewEventHandler.html",
+          "hash": "Q4Zoq+HrZugfhQLjU+Ka0w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ResourceDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ResourceDictionary.html",
+          "hash": "fM0YEo/63rxmNPWQFTjNVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.ResourceReferenceExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.ResourceReferenceExpression.html",
+          "hash": "8aGXmqHKnUTogIOIbRp44Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutedEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutedEvent.html",
+          "hash": "kJ92gMEuSsSOncYBli22JA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutedEventArgs.html",
+          "hash": "kUAqC+8TJkUPYNXXZLTGeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutedEventHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutedEventHandler.html",
+          "hash": "sH6F6z7A95poqYyGGQOwGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutedPropertyChangedEventArgs-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutedPropertyChangedEventArgs-1.html",
+          "hash": "t/3DtZd2+5VHoGQvLUTFRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutedPropertyChangedEventHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutedPropertyChangedEventHandler-1.html",
+          "hash": "PGfma3MiLBKpxHcCAlfToA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.RoutingStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.RoutingStrategy.html",
+          "hash": "meElDLNh/Ve49pUr1ZUioA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Setter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Setter.html",
+          "hash": "czAfB/4TflwhEDq1zs0VfA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.Ellipse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.Ellipse.html",
+          "hash": "07V5BLWMNUlEYrlhHajsWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.Line.html",
+          "hash": "HZQ6veSIdKCP5/cekaJ6CA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.Path.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.Path.html",
+          "hash": "WTB/cQf5qGYjm4XYDv868Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.Rectangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.Rectangle.html",
+          "hash": "VQfs+cb/OjKk8ushz9DKSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.Shape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.Shape.html",
+          "hash": "vGAUmKxV/52zQf+Z2c+KzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Shapes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Shapes.html",
+          "hash": "QsS/kaMEtc2YxB/B67REig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Style.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Style.html",
+          "hash": "p95MwngyGmLTJ6765NoOcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.StyleHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.StyleHelper.html",
+          "hash": "knsW/zoQjb15Z7VBhIqccQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.TextAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.TextAlignment.html",
+          "hash": "pWcJVYTr+T/Tb6f8tpNfzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ButtonStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ButtonStyle.html",
+          "hash": "96OqJUUfI1Trp4/3gibFTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ChartStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ChartStyle.html",
+          "hash": "WahqxYdOWx/G7kB/b31sXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.CheckBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.CheckBoxStyle.html",
+          "hash": "XqIqTXEQiQgmdWd8TbhHhQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ComboBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ComboBoxStyle.html",
+          "hash": "HnPnNwOqdhHCX8wgkvAU+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.CommonHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.CommonHelpers.html",
+          "hash": "CVIQFJU2PEj5CY4TfplwyA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.CommonResourceKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.CommonResourceKeys.html",
+          "hash": "21Wwq3k/CjgRmD68OoEL0Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.Dark.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.Dark.html",
+          "hash": "DF6SXxdE40xwQb4NI7Ynzg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.DataGridStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.DataGridStyle.html",
+          "hash": "wpToGr98RGMJBnv676b4Dw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.DefaultTypeTemplates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.DefaultTypeTemplates.html",
+          "hash": "NE3rKS47OBHXQg/DJ50Ejw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.EmptyKeysTheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.EmptyKeysTheme.html",
+          "hash": "28UVS+/kLIqeQuR6kNh7Qg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ExpanderStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ExpanderStyle.html",
+          "hash": "5FkJ1ybs0kVaZ5Pz5tlrCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.GroupBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.GroupBoxStyle.html",
+          "hash": "R+M2uGi0Q4Q8QwOaYY/Yuw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ImageButtonStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ImageButtonStyle.html",
+          "hash": "pHtgeZtcX9SUSgca+6/Dww=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.Light.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.Light.html",
+          "hash": "MZC9fNSRfSKItBHyBMRtyg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ListBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ListBoxStyle.html",
+          "hash": "4htm2vHObISJi5zJrlF5dQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.NumericTextBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.NumericTextBoxStyle.html",
+          "hash": "n5GWFBnXeoo/D1BxTXahmw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.PasswordBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.PasswordBoxStyle.html",
+          "hash": "TP2KNesibKtC60udb0MYgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ProgressBarStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ProgressBarStyle.html",
+          "hash": "7TMCZvD1wFbetDl/uaFmmw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.RadioButtonStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.RadioButtonStyle.html",
+          "hash": "c4oAaoNcZSCYvOcppEp6tA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.RepeatButtonStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.RepeatButtonStyle.html",
+          "hash": "IqOVhiLo8rZIlwPi9u+/jA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.RootStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.RootStyle.html",
+          "hash": "AyFMXHIULVB/ZIdz11y/Rw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ScrollBarStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ScrollBarStyle.html",
+          "hash": "NGn+heEL8XfBssHv0Qb73A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ScrollViewerStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ScrollViewerStyle.html",
+          "hash": "1LLib+12csDDczKER/im3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.SliderStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.SliderStyle.html",
+          "hash": "U7xcEU9NVgw+InI6gWh2+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.TabControlStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.TabControlStyle.html",
+          "hash": "2Rxz4uNRxi4YgHJDC5HQ0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.TextBoxStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.TextBoxStyle.html",
+          "hash": "wJB8eCdkWzfoldQmB22Xpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ToggleButtonStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ToggleButtonStyle.html",
+          "hash": "Mxuv5Ox6qWVw05j6Eb9azA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.ToolTipStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.ToolTipStyle.html",
+          "hash": "xHhdhWrYusmnPezZlLPvbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.TreeViewStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.TreeViewStyle.html",
+          "hash": "UBm1E5ESG8GnV8gfY/iKgg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.UserControlStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.UserControlStyle.html",
+          "hash": "4ZC8hR49GChMOOPRc4mThg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.VirtualKeyboardStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.VirtualKeyboardStyle.html",
+          "hash": "4ZYnjbwJcKQh9zrAoMCPRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.WindowStyle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.WindowStyle.html",
+          "hash": "6okQhUTY8HxS/IQl7TGg9g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Themes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Themes.html",
+          "hash": "vGSGUNxAe2Yxe9bPUjnMYw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Threading.Dispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Threading.Dispatcher.html",
+          "hash": "OBLfgq2NJvzch+VumFunsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Threading.DispatcherObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Threading.DispatcherObject.html",
+          "hash": "+jQepnnyjiRp4Ae1zffAFg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Threading.DispatcherOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Threading.DispatcherOperation.html",
+          "hash": "li0xWhDaU305ECFvj4XZFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Threading.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Threading.html",
+          "hash": "4AqpZu4U16calXLIMwtdRw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Trigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Trigger.html",
+          "hash": "yXxfDUSwNoLYqwnLfXJ14A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.TriggerAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.TriggerAction.html",
+          "hash": "Uh9iS3GkO7rCeyKtxDGvsw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.TriggerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.TriggerBase.html",
+          "hash": "ykDHLZmhFNZb3R7lT0RCeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.UIElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.UIElement.html",
+          "hash": "cOgT6ha9TtCpvOTmNUIKIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.VerticalAlignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.VerticalAlignment.html",
+          "hash": "E3Zscj08awVh355MtGskeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Visibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Visibility.html",
+          "hash": "dCFDAsgU17mIOHVCF1Eiig=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Window.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Window.html",
+          "hash": "jZWpIfIYqOhIYYvSo86g1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.html",
+          "hash": "nS26Z2Ijgleud0mS4LIB1w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "UTOHNU0sxwBw9IslyQcfVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Quqs9XnT+JRBx7KrHu4uYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "khDjkdNbtBj3sJ1zpLrcIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "9Ru6lWBqBg/uu4FSJC4GGQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

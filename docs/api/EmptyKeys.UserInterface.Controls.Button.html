@@ -1,0 +1,1539 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class Button
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class Button
+   ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.Controls.Button">
+  
+  
+  <h1 id="EmptyKeys_UserInterface_Controls_Button" data-uid="EmptyKeys.UserInterface.Controls.Button" class="text-break">Class Button
+  </h1>
+  <div class="markdown level0 summary"><p>Implements control with Click event when pressed</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
+    <div class="level2"><a class="xref" href="EmptyKeys.UserInterface.UIElement.html">UIElement</a></div>
+    <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html">Control</a></div>
+    <div class="level4"><a class="xref" href="EmptyKeys.UserInterface.Controls.ContentControl.html">ContentControl</a></div>
+    <div class="level5"><span class="xref">Button</span></div>
+      <div class="level6"><a class="xref" href="EmptyKeys.UserInterface.Controls.ImageButton.html">ImageButton</a></div>
+      <div class="level6"><a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.DataGridColumnHeader.html">DataGridColumnHeader</a></div>
+      <div class="level6"><a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html">RepeatButton</a></div>
+      <div class="level6"><a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.ToggleButton.html">ToggleButton</a></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="EmptyKeys.UserInterface.Input.ICommandSource.html">ICommandSource</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.ContentControl.html#EmptyKeys_UserInterface_Controls_ContentControl_ContentProperty">ContentControl.ContentProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.ContentControl.html#EmptyKeys_UserInterface_Controls_ContentControl_Content">ContentControl.Content</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.ContentControl.html#EmptyKeys_UserInterface_Controls_ContentControl_HasContent">ContentControl.HasContent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_BackgroundProperty">Control.BackgroundProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_Background">Control.Background</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_BorderBrushProperty">Control.BorderBrushProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_BorderBrush">Control.BorderBrush</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_BorderThicknessProperty">Control.BorderThicknessProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_BorderThickness">Control.BorderThickness</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_ForegroundProperty">Control.ForegroundProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_Foreground">Control.Foreground</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontProperty">Control.FontProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_Font">Control.Font</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontFamilyProperty">Control.FontFamilyProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontFamily">Control.FontFamily</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontSizeProperty">Control.FontSizeProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontSize">Control.FontSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontStyleProperty">Control.FontStyleProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_FontStyle">Control.FontStyle</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_PaddingProperty">Control.PaddingProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_Padding">Control.Padding</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_TabIndexProperty">Control.TabIndexProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_TabIndex">Control.TabIndex</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_IsTabStopProperty">Control.IsTabStopProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_IsTabStop">Control.IsTabStop</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_TemplateProperty">Control.TemplateProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_Template">Control.Template</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_HorizontalContentAlignmentProperty">Control.HorizontalContentAlignmentProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_HorizontalContentAlignment">Control.HorizontalContentAlignment</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_VerticalContentAlignmentProperty">Control.VerticalContentAlignmentProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_VerticalContentAlignment">Control.VerticalContentAlignment</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_PreviewMouseDoubleClickEvent">Control.PreviewMouseDoubleClickEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_PreviewMouseDoubleClick">Control.PreviewMouseDoubleClick</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_OnPreviewMouseDoubleClick_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">Control.OnPreviewMouseDoubleClick(MouseButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_MouseDoubleClickEvent">Control.MouseDoubleClickEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_MouseDoubleClick">Control.MouseDoubleClick</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_OnMouseDoubleClick_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">Control.OnMouseDoubleClick(MouseButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_MeasureOverride_EmptyKeys_UserInterface_Size_">Control.MeasureOverride(Size)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_ArrangeOverride_EmptyKeys_UserInterface_Size_">Control.ArrangeOverride(Size)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_OnDraw_EmptyKeys_UserInterface_Renderers_Renderer_System_Double_System_Single_">Control.OnDraw(Renderer, Double, Single)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_OnPropertyChanged_EmptyKeys_UserInterface_DependencyProperty_">Control.OnPropertyChanged(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Control.html#EmptyKeys_UserInterface_Controls_Control_InvalidateIsEnabledOnChildren">Control.InvalidateIsEnabledOnChildren()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_visualOffset">UIElement.visualOffset</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_unclippedDesiredSize">UIElement.unclippedDesiredSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_desiredSize">UIElement.desiredSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_needsClipBounds">UIElement.needsClipBounds</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DesiredSize">UIElement.DesiredSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RenderSize">UIElement.RenderSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DeviceRenderSize">UIElement.DeviceRenderSize</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VisualOffset">UIElement.VisualOffset</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VisualPosition">UIElement.VisualPosition</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RenderPosition">UIElement.RenderPosition</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Parent">UIElement.Parent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ActualHeight">UIElement.ActualHeight</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ActualWidth">UIElement.ActualWidth</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsLoaded">UIElement.IsLoaded</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TemplatedParent">UIElement.TemplatedParent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_NameProperty">UIElement.NameProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Name">UIElement.Name</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_HorizontalAlignmentProperty">UIElement.HorizontalAlignmentProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_HorizontalAlignment">UIElement.HorizontalAlignment</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VerticalAlignmentProperty">UIElement.VerticalAlignmentProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VerticalAlignment">UIElement.VerticalAlignment</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VisibilityProperty">UIElement.VisibilityProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Visibility">UIElement.Visibility</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MarginProperty">UIElement.MarginProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Margin">UIElement.Margin</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_HeightProperty">UIElement.HeightProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Height">UIElement.Height</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MaxHeightProperty">UIElement.MaxHeightProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MaxHeight">UIElement.MaxHeight</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MinHeightProperty">UIElement.MinHeightProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MinHeight">UIElement.MinHeight</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_WidthProperty">UIElement.WidthProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Width">UIElement.Width</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MaxWidthProperty">UIElement.MaxWidthProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MaxWidth">UIElement.MaxWidth</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MinWidthProperty">UIElement.MinWidthProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MinWidth">UIElement.MinWidth</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TagProperty">UIElement.TagProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Tag">UIElement.Tag</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsEnabledProperty">UIElement.IsEnabledProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsEnabledCoerceValue">UIElement.IsEnabledCoerceValue</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsEnabled">UIElement.IsEnabled</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMouseOverProperty">UIElement.IsMouseOverProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMouseOver">UIElement.IsMouseOver</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMouseCapturedProperty">UIElement.IsMouseCapturedProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMouseCaptured">UIElement.IsMouseCaptured</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsTouchCapturedProperty">UIElement.IsTouchCapturedProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsTouchCaptured">UIElement.IsTouchCaptured</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsKeyboardFocusedProperty">UIElement.IsKeyboardFocusedProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsKeyboardFocused">UIElement.IsKeyboardFocused</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_StyleProperty">UIElement.StyleProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Style">UIElement.Style</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DataContextProperty">UIElement.DataContextProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DataContext">UIElement.DataContext</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsFocusedProperty">UIElement.IsFocusedProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsFocused">UIElement.IsFocused</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_FocusableProperty">UIElement.FocusableProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Focusable">UIElement.Focusable</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsHitTestVisibleProperty">UIElement.IsHitTestVisibleProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsHitTestVisible">UIElement.IsHitTestVisible</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_SnapsToDevicePixelsProperty">UIElement.SnapsToDevicePixelsProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_SnapsToDevicePixels">UIElement.SnapsToDevicePixels</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_UseLayoutRoundingProperty">UIElement.UseLayoutRoundingProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_UseLayoutRounding">UIElement.UseLayoutRounding</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OpacityProperty">UIElement.OpacityProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Opacity">UIElement.Opacity</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMeasureValid">UIElement.IsMeasureValid</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsArrangeValid">UIElement.IsArrangeValid</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Resources">UIElement.Resources</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_InputBindings">UIElement.InputBindings</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ToolTipProperty">UIElement.ToolTipProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ToolTip">UIElement.ToolTip</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Triggers">UIElement.Triggers</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_CursorTypeProperty">UIElement.CursorTypeProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_CursorType">UIElement.CursorType</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_EffectProperty">UIElement.EffectProperty</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Effect">UIElement.Effect</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DataContextChanged">UIElement.DataContextChanged</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsEnabledChanged">UIElement.IsEnabledChanged</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_IsMouseCapturedChanged">UIElement.IsMouseCapturedChanged</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_VisibleEvent">UIElement.VisibleEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Visible">UIElement.Visible</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_HiddenEvent">UIElement.HiddenEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Hidden">UIElement.Hidden</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_CollapsedEvent">UIElement.CollapsedEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Collapsed">UIElement.Collapsed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_LoadedEvent">UIElement.LoadedEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Loaded">UIElement.Loaded</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_UnloadedEvent">UIElement.UnloadedEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Unloaded">UIElement.Unloaded</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseDownEvent">UIElement.MouseDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseDown">UIElement.MouseDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseDownEvent">UIElement.PreviewMouseDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseDown">UIElement.PreviewMouseDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseUpEvent">UIElement.MouseUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseUp">UIElement.MouseUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseUpEvent">UIElement.PreviewMouseUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseUp">UIElement.PreviewMouseUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseWheelEvent">UIElement.PreviewMouseWheelEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseWheel">UIElement.PreviewMouseWheel</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseWheelEvent">UIElement.MouseWheelEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseWheel">UIElement.MouseWheel</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseMoveEvent">UIElement.MouseMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseMove">UIElement.MouseMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseMoveEvent">UIElement.PreviewMouseMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewMouseMove">UIElement.PreviewMouseMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseEnterEvent">UIElement.MouseEnterEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseEnter">UIElement.MouseEnter</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseLeaveEvent">UIElement.MouseLeaveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_MouseLeave">UIElement.MouseLeave</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewKeyDownEvent">UIElement.PreviewKeyDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewKeyDown">UIElement.PreviewKeyDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_KeyDownEvent">UIElement.KeyDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_KeyDown">UIElement.KeyDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewKeyUpEvent">UIElement.PreviewKeyUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewKeyUp">UIElement.PreviewKeyUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_KeyUpEvent">UIElement.KeyUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_KeyUp">UIElement.KeyUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadDownEvent">UIElement.GamepadDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadDown">UIElement.GamepadDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadDownEvent">UIElement.PreviewGamepadDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadDown">UIElement.PreviewGamepadDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadUpEvent">UIElement.GamepadUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadUp">UIElement.GamepadUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadUpEvent">UIElement.PreviewGamepadUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadUp">UIElement.PreviewGamepadUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadMoveEvent">UIElement.PreviewGamepadMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadMove">UIElement.PreviewGamepadMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadMoveEvent">UIElement.GamepadMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadMove">UIElement.GamepadMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadTriggerEvent">UIElement.PreviewGamepadTriggerEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewGamepadTrigger">UIElement.PreviewGamepadTrigger</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadTriggerEvent">UIElement.GamepadTriggerEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GamepadTrigger">UIElement.GamepadTrigger</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchDownEvent">UIElement.PreviewTouchDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchDown">UIElement.PreviewTouchDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchDownEvent">UIElement.TouchDownEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchDown">UIElement.TouchDown</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchUpEvent">UIElement.PreviewTouchUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchUp">UIElement.PreviewTouchUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchUpEvent">UIElement.TouchUpEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchUp">UIElement.TouchUp</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchMoveEvent">UIElement.PreviewTouchMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchMove">UIElement.PreviewTouchMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchMoveEvent">UIElement.TouchMoveEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchMove">UIElement.TouchMove</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchGestureEvent">UIElement.PreviewTouchGestureEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_PreviewTouchGesture">UIElement.PreviewTouchGesture</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchGestureEvent">UIElement.TouchGestureEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_TouchGesture">UIElement.TouchGesture</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GotFocusEvent">UIElement.GotFocusEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_GotFocus">UIElement.GotFocus</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_LostFocusEvent">UIElement.LostFocusEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_LostFocus">UIElement.LostFocus</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_SizeChangedEvent">UIElement.SizeChangedEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_SizeChanged">UIElement.SizeChanged</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_LayoutUpdated">UIElement.LayoutUpdated</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RequestBringIntoViewEvent">UIElement.RequestBringIntoViewEvent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RequestBringIntoView">UIElement.RequestBringIntoView</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DpiScaleX">UIElement.DpiScaleX</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_DpiScaleY">UIElement.DpiScaleY</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnLostFocus_System_Object_EmptyKeys_UserInterface_RoutedEventArgs_">UIElement.OnLostFocus(Object, RoutedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnGotFocus_System_Object_EmptyKeys_UserInterface_RoutedEventArgs_">UIElement.OnGotFocus(Object, RoutedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewMouseUp_System_Object_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">UIElement.OnPreviewMouseUp(Object, MouseButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewMouseDown_System_Object_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">UIElement.OnPreviewMouseDown(Object, MouseButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnGamepadTrigger_System_Object_EmptyKeys_UserInterface_Input_GamepadTriggerEventArgs_">UIElement.OnGamepadTrigger(Object, GamepadTriggerEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewGamepadTrigger_System_Object_EmptyKeys_UserInterface_Input_GamepadTriggerEventArgs_">UIElement.OnPreviewGamepadTrigger(Object, GamepadTriggerEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_">UIElement.OnGamepadMove(Object, GamepadMoveEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_">UIElement.OnPreviewGamepadMove(Object, GamepadMoveEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewGamepadUp_System_Object_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_">UIElement.OnPreviewGamepadUp(Object, GamepadButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewGamepadDown_System_Object_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_">UIElement.OnPreviewGamepadDown(Object, GamepadButtonEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewKeyUp_System_Object_EmptyKeys_UserInterface_Input_KeyEventArgs_">UIElement.OnPreviewKeyUp(Object, KeyEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewKeyDown_System_Object_EmptyKeys_UserInterface_Input_KeyEventArgs_">UIElement.OnPreviewKeyDown(Object, KeyEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewMouseMove_System_Object_EmptyKeys_UserInterface_Input_MouseEventArgs_">UIElement.OnPreviewMouseMove(Object, MouseEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseMove_System_Object_EmptyKeys_UserInterface_Input_MouseEventArgs_">UIElement.OnMouseMove(Object, MouseEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseWheel_EmptyKeys_UserInterface_Input_MouseWheelEventArgs_">UIElement.OnMouseWheel(MouseWheelEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewMouseWheel_System_Object_EmptyKeys_UserInterface_Input_MouseWheelEventArgs_">UIElement.OnPreviewMouseWheel(Object, MouseWheelEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewTouchUp_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnPreviewTouchUp(TouchEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewTouchDown_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnPreviewTouchDown(TouchEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnTouchMove_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnTouchMove(TouchEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewTouchMove_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnPreviewTouchMove(TouchEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnTouchGesture_EmptyKeys_UserInterface_Input_TouchGestureEventArgs_">UIElement.OnTouchGesture(TouchGestureEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewTouchGesture_EmptyKeys_UserInterface_Input_TouchGestureEventArgs_">UIElement.OnPreviewTouchGesture(TouchGestureEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ApplyTemplate">UIElement.ApplyTemplate()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnApplyTemplate">UIElement.OnApplyTemplate()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnIsEnabledChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_">UIElement.OnIsEnabledChanged(DependencyPropertyChangedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnOpacityChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_">UIElement.OnOpacityChanged(DependencyPropertyChangedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Contains_EmptyKeys_UserInterface_PointF_EmptyKeys_UserInterface_Size_">UIElement.Contains(PointF, Size)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Draw_EmptyKeys_UserInterface_Renderers_Renderer_System_Double_System_Single_">UIElement.Draw(Renderer, Double, Single)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Measure_EmptyKeys_UserInterface_Size_">UIElement.Measure(Size)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_InvalidateMeasure">UIElement.InvalidateMeasure()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Arrange_EmptyKeys_UserInterface_Rect_">UIElement.Arrange(Rect)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_InvalidateArrange">UIElement.InvalidateArrange()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_FindResource_System_Object_">UIElement.FindResource(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_AddHandler_EmptyKeys_UserInterface_RoutedEvent_System_Delegate_">UIElement.AddHandler(RoutedEvent, Delegate)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RemoveHandler_EmptyKeys_UserInterface_RoutedEvent_System_Delegate_">UIElement.RemoveHandler(RoutedEvent, Delegate)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_RaiseEvent_EmptyKeys_UserInterface_RoutedEventArgs_">UIElement.RaiseEvent(RoutedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_AddToEventRoute_EmptyKeys_UserInterface_EventRoute_EmptyKeys_UserInterface_RoutedEventArgs_">UIElement.AddToEventRoute(EventRoute, RoutedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_CaptureMouse">UIElement.CaptureMouse()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ReleaseMouseCapture">UIElement.ReleaseMouseCapture()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnIsMouseCapturedChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_">UIElement.OnIsMouseCapturedChanged(DependencyPropertyChangedEventArgs)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_CaptureTouch">UIElement.CaptureTouch()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_ReleaseTouchCapture">UIElement.ReleaseTouchCapture()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_Focus">UIElement.Focus()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_BringIntoView">UIElement.BringIntoView()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_DependencyObjectType">DependencyObject.DependencyObjectType</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_IsSealed">DependencyObject.IsSealed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_Equals_System_Object_">DependencyObject.Equals(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetHashCode">DependencyObject.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ClearValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ClearValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.GetValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ReadLocalValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ReadLocalValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetLocalValueEnumerator">DependencyObject.GetLocalValueEnumerator()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetValue_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetValue(DependencyProperty, Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_CoerceValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.CoerceValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetBinding_EmptyKeys_UserInterface_DependencyProperty_EmptyKeys_UserInterface_Data_Binding_">DependencyObject.SetBinding(DependencyProperty, Binding)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetResourceReference_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetResourceReference(DependencyProperty, Object)</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.Controls.html">EmptyKeys.UserInterface.Controls</a></h6>
+  <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
+  <h5 id="EmptyKeys_UserInterface_Controls_Button_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class Button : ContentControl, ICommandSource</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button__ctor_" data-uid="EmptyKeys.UserInterface.Controls.Button.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button__ctor" data-uid="EmptyKeys.UserInterface.Controls.Button.#ctor">Button()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.Controls.Button.html">Button</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Button()</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_ClickEvent" data-uid="EmptyKeys.UserInterface.Controls.Button.ClickEvent">ClickEvent</h4>
+  <div class="markdown level1 summary"><p>The click event</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly RoutedEvent ClickEvent</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEvent.html">RoutedEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_ClickModeProperty" data-uid="EmptyKeys.UserInterface.Controls.Button.ClickModeProperty">ClickModeProperty</h4>
+  <div class="markdown level1 summary"><p>The click mode property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty ClickModeProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_CommandParameterProperty" data-uid="EmptyKeys.UserInterface.Controls.Button.CommandParameterProperty">CommandParameterProperty</h4>
+  <div class="markdown level1 summary"><p>The command parameter property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty CommandParameterProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_CommandProperty" data-uid="EmptyKeys.UserInterface.Controls.Button.CommandProperty">CommandProperty</h4>
+  <div class="markdown level1 summary"><p>The command property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty CommandProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_IsPressedProperty" data-uid="EmptyKeys.UserInterface.Controls.Button.IsPressedProperty">IsPressedProperty</h4>
+  <div class="markdown level1 summary"><p>The is pressed property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty IsPressedProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_ClickMode_" data-uid="EmptyKeys.UserInterface.Controls.Button.ClickMode*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_ClickMode" data-uid="EmptyKeys.UserInterface.Controls.Button.ClickMode">ClickMode</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the click mode.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ClickMode ClickMode { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Controls.ClickMode.html">ClickMode</a></td>
+        <td><p>The click mode.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_Command_" data-uid="EmptyKeys.UserInterface.Controls.Button.Command*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_Command" data-uid="EmptyKeys.UserInterface.Controls.Button.Command">Command</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the command.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ICommand Command { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.ICommand.html">ICommand</a></td>
+        <td><p>The command.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_CommandParameter_" data-uid="EmptyKeys.UserInterface.Controls.Button.CommandParameter*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_CommandParameter" data-uid="EmptyKeys.UserInterface.Controls.Button.CommandParameter">CommandParameter</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the command parameter.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public object CommandParameter { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td><p>The command parameter.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_IsPressed_" data-uid="EmptyKeys.UserInterface.Controls.Button.IsPressed*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_IsPressed" data-uid="EmptyKeys.UserInterface.Controls.Button.IsPressed">IsPressed</h4>
+  <div class="markdown level1 summary"><p>Gets or sets a value indicating whether this instance is pressed.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsPressed { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><p><code>true</code> if this instance is pressed; otherwise, <code>false</code>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnClick_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnClick*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnClick" data-uid="EmptyKeys.UserInterface.Controls.Button.OnClick">OnClick()</h4>
+  <div class="markdown level1 summary"><p>Called when button is [clicked].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void OnClick()</code></pre>
+  </div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnGamepadDown_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnGamepadDown*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnGamepadDown_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)">OnGamepadDown(GamepadButtonEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">GamepadDown</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnGamepadDown(GamepadButtonEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html">GamepadButtonEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html">GamepadButtonEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnGamepadDown_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_">UIElement.OnGamepadDown(GamepadButtonEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnGamepadUp_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnGamepadUp*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnGamepadUp_System_Object_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnGamepadUp(System.Object,EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)">OnGamepadUp(Object, GamepadButtonEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Called when [game pad up].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnGamepadUp(object sender, GamepadButtonEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td><span class="parametername">sender</span></td>
+        <td><p>The sender.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html">GamepadButtonEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html">GamepadButtonEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnGamepadUp_System_Object_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_">UIElement.OnGamepadUp(Object, GamepadButtonEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnKeyDown_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnKeyDown*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnKeyDown_EmptyKeys_UserInterface_Input_KeyEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnKeyDown(EmptyKeys.UserInterface.Input.KeyEventArgs)">OnKeyDown(KeyEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">KeyDown</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnKeyDown(KeyEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.KeyEventArgs.html">KeyEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.KeyEventArgs.html">KeyEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnKeyDown_EmptyKeys_UserInterface_Input_KeyEventArgs_">UIElement.OnKeyDown(KeyEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnKeyUp_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnKeyUp*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnKeyUp_System_Object_EmptyKeys_UserInterface_Input_KeyEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnKeyUp(System.Object,EmptyKeys.UserInterface.Input.KeyEventArgs)">OnKeyUp(Object, KeyEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Called when [key up].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnKeyUp(object sender, KeyEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td><span class="parametername">sender</span></td>
+        <td><p>The sender.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.KeyEventArgs.html">KeyEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.KeyEventArgs.html">KeyEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnKeyUp_System_Object_EmptyKeys_UserInterface_Input_KeyEventArgs_">UIElement.OnKeyUp(Object, KeyEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnMouseDown_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseDown*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnMouseDown_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseDown(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)">OnMouseDown(MouseButtonEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">MouseDown</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnMouseDown(MouseButtonEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.MouseButtonEventArgs.html">MouseButtonEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.MouseButtonEventArgs.html">MouseButtonEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseDown_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">UIElement.OnMouseDown(MouseButtonEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnMouseEnter_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseEnter*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnMouseEnter_EmptyKeys_UserInterface_Input_MouseEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseEnter(EmptyKeys.UserInterface.Input.MouseEventArgs)">OnMouseEnter(MouseEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">MouseEnter</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnMouseEnter(MouseEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.MouseEventArgs.html">MouseEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.MouseEventArgs.html">MouseEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseEnter_EmptyKeys_UserInterface_Input_MouseEventArgs_">UIElement.OnMouseEnter(MouseEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnMouseLeave_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseLeave*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnMouseLeave_EmptyKeys_UserInterface_Input_MouseEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseLeave(EmptyKeys.UserInterface.Input.MouseEventArgs)">OnMouseLeave(MouseEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">MouseLeave</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnMouseLeave(MouseEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.MouseEventArgs.html">MouseEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.MouseEventArgs.html">MouseEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseLeave_EmptyKeys_UserInterface_Input_MouseEventArgs_">UIElement.OnMouseLeave(MouseEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnMouseUp_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseUp*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnMouseUp_System_Object_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnMouseUp(System.Object,EmptyKeys.UserInterface.Input.MouseButtonEventArgs)">OnMouseUp(Object, MouseButtonEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Called when [mouse up].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnMouseUp(object sender, MouseButtonEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td><span class="parametername">sender</span></td>
+        <td><p>The sender.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.MouseButtonEventArgs.html">MouseButtonEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.MouseButtonEventArgs.html">MouseButtonEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnMouseUp_System_Object_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_">UIElement.OnMouseUp(Object, MouseButtonEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnTouchDown_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnTouchDown*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnTouchDown_EmptyKeys_UserInterface_Input_TouchEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnTouchDown(EmptyKeys.UserInterface.Input.TouchEventArgs)">OnTouchDown(TouchEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">TouchDown</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnTouchDown(TouchEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.TouchEventArgs.html">TouchEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.TouchEventArgs.html">TouchEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnTouchDown_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnTouchDown(TouchEventArgs)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_Button_OnTouchUp_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnTouchUp*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_OnTouchUp_EmptyKeys_UserInterface_Input_TouchEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.Button.OnTouchUp(EmptyKeys.UserInterface.Input.TouchEventArgs)">OnTouchUp(TouchEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">TouchUp</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnTouchUp(TouchEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.Input.TouchEventArgs.html">TouchEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Input.TouchEventArgs.html">TouchEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnTouchUp_EmptyKeys_UserInterface_Input_TouchEventArgs_">UIElement.OnTouchUp(TouchEventArgs)</a></div>
+  <h3 id="events">Events
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Controls_Button_Click" data-uid="EmptyKeys.UserInterface.Controls.Button.Click">Click</h4>
+  <div class="markdown level1 summary"><p>Occurs when [click].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public event RoutedEventHandler Click</code></pre>
+  </div>
+  <h5 class="eventType">Event Type</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.RoutedEventHandler.html">RoutedEventHandler</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Input.ICommandSource.html">ICommandSource</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

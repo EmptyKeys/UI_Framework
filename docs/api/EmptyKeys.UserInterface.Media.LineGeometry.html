@@ -1,0 +1,575 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class LineGeometry
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class LineGeometry
+   ">
+    <meta name="generator" content="docfx 2.40.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.Media.LineGeometry">
+  
+  
+  <h1 id="EmptyKeys_UserInterface_Media_LineGeometry" data-uid="EmptyKeys.UserInterface.Media.LineGeometry" class="text-break">Class LineGeometry
+  </h1>
+  <div class="markdown level0 summary"><p>Implements line geometry</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
+    <div class="level2"><a class="xref" href="EmptyKeys.UserInterface.Freezable.html">Freezable</a></div>
+    <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html">Geometry</a></div>
+    <div class="level4"><span class="xref">LineGeometry</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_IsFrozen">Freezable.IsFrozen</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Parent">Freezable.Parent</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Changed">Freezable.Changed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_Freeze">Freezable.Freeze()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Freezable.html#EmptyKeys_UserInterface_Freezable_OnPropertyChanged_EmptyKeys_UserInterface_DependencyProperty_">Freezable.OnPropertyChanged(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_DependencyObjectType">DependencyObject.DependencyObjectType</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_IsSealed">DependencyObject.IsSealed</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_Equals_System_Object_">DependencyObject.Equals(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetHashCode">DependencyObject.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ClearValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ClearValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.GetValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_ReadLocalValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.ReadLocalValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_GetLocalValueEnumerator">DependencyObject.GetLocalValueEnumerator()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetValue_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetValue(DependencyProperty, Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_CoerceValue_EmptyKeys_UserInterface_DependencyProperty_">DependencyObject.CoerceValue(DependencyProperty)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetBinding_EmptyKeys_UserInterface_DependencyProperty_EmptyKeys_UserInterface_Data_Binding_">DependencyObject.SetBinding(DependencyProperty, Binding)</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetResourceReference_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetResourceReference(DependencyProperty, Object)</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.Media.html">EmptyKeys.UserInterface.Media</a></h6>
+  <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
+  <h5 id="EmptyKeys_UserInterface_Media_LineGeometry_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class LineGeometry : Geometry</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry__ctor_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry__ctor" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.#ctor">LineGeometry()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.Media.LineGeometry.html">LineGeometry</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public LineGeometry()</code></pre>
+  </div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry__ctor_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry__ctor_EmptyKeys_UserInterface_PointF_EmptyKeys_UserInterface_PointF_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.#ctor(EmptyKeys.UserInterface.PointF,EmptyKeys.UserInterface.PointF)">LineGeometry(PointF, PointF)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.Media.LineGeometry.html">LineGeometry</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public LineGeometry(PointF startPoint, PointF endPoint)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><span class="parametername">startPoint</span></td>
+        <td><p>The start point.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><span class="parametername">endPoint</span></td>
+        <td><p>The end point.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_EndPointProperty" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.EndPointProperty">EndPointProperty</h4>
+  <div class="markdown level1 summary"><p>The end point property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty EndPointProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_StartPointProperty" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.StartPointProperty">StartPointProperty</h4>
+  <div class="markdown level1 summary"><p>The start point property</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly DependencyProperty StartPointProperty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyProperty.html">DependencyProperty</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_Bounds_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.Bounds*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_Bounds" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.Bounds">Bounds</h4>
+  <div class="markdown level1 summary"><p>Gets the bounds.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override Rect Bounds { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Rect</span></td>
+        <td><p>The bounds.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_Bounds">Geometry.Bounds</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_EndPoint_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.EndPoint*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_EndPoint" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.EndPoint">EndPoint</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the end point.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public PointF EndPoint { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><p>The end point.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_StartPoint_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.StartPoint*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_StartPoint" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.StartPoint">StartPoint</h4>
+  <div class="markdown level1 summary"><p>Gets or sets the start point.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public PointF StartPoint { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><p>The start point.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_Contains_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.Contains*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_Contains_EmptyKeys_UserInterface_PointF_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.Contains(EmptyKeys.UserInterface.PointF)">Contains(PointF)</h4>
+  <div class="markdown level1 summary"><p>Determines whether [contains] [the specified local point].</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool Contains(PointF localPoint)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.PointF</span></td>
+        <td><span class="parametername">localPoint</span></td>
+        <td><p>The local point.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_Contains_EmptyKeys_UserInterface_PointF_">Geometry.Contains(PointF)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_GetFillGeometryData_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.GetFillGeometryData*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_GetFillGeometryData_System_Single_EmptyKeys_UserInterface_Media_GeometryPrimitiveType__" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.GetFillGeometryData(System.Single,EmptyKeys.UserInterface.Media.GeometryPrimitiveType@)">GetFillGeometryData(Single, out GeometryPrimitiveType)</h4>
+  <div class="markdown level1 summary"><p>Gets the fill geometry data.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override List&lt;PointF&gt; GetFillGeometryData(float strokeThickness, out GeometryPrimitiveType primitiveType)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">strokeThickness</span></td>
+        <td><p>The stroke thickness.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.GeometryPrimitiveType</span></td>
+        <td><span class="parametername">primitiveType</span></td>
+        <td><p>Type of the primitive.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<span class="xref">EmptyKeys.UserInterface.PointF</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_GetFillGeometryData_System_Single_EmptyKeys_UserInterface_Media_GeometryPrimitiveType__">Geometry.GetFillGeometryData(Single, out GeometryPrimitiveType)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_GetStrokeGeometryData_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.GetStrokeGeometryData*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_GetStrokeGeometryData_System_Single_EmptyKeys_UserInterface_Media_GeometryPrimitiveType__" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.GetStrokeGeometryData(System.Single,EmptyKeys.UserInterface.Media.GeometryPrimitiveType@)">GetStrokeGeometryData(Single, out GeometryPrimitiveType)</h4>
+  <div class="markdown level1 summary"><p>Gets the stroke geometry data.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override List&lt;PointF&gt; GetStrokeGeometryData(float thickness, out GeometryPrimitiveType primitiveType)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">thickness</span></td>
+        <td><p>The thickness.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">EmptyKeys.UserInterface.Media.GeometryPrimitiveType</span></td>
+        <td><span class="parametername">primitiveType</span></td>
+        <td><p>Type of the primitive.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<span class="xref">EmptyKeys.UserInterface.PointF</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_GetStrokeGeometryData_System_Single_EmptyKeys_UserInterface_Media_GeometryPrimitiveType__">Geometry.GetStrokeGeometryData(Single, out GeometryPrimitiveType)</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_IsEmpty_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.IsEmpty*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_IsEmpty" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.IsEmpty">IsEmpty()</h4>
+  <div class="markdown level1 summary"><p>Determines whether this instance is empty.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool IsEmpty()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_IsEmpty">Geometry.IsEmpty()</a></div>
+  
+  
+  <a id="EmptyKeys_UserInterface_Media_LineGeometry_MayHaveCurves_" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.MayHaveCurves*"></a>
+  <h4 id="EmptyKeys_UserInterface_Media_LineGeometry_MayHaveCurves" data-uid="EmptyKeys.UserInterface.Media.LineGeometry.MayHaveCurves">MayHaveCurves()</h4>
+  <div class="markdown level1 summary"><p>Mays the have curves, like rounded corners etc.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool MayHaveCurves()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Media.Geometry.html#EmptyKeys_UserInterface_Media_Geometry_MayHaveCurves">Geometry.MayHaveCurves()</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
