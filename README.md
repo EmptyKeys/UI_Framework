@@ -2,7 +2,7 @@
 
 Empty Keys UI is multi-platform user interface framework.
 
-[API Docs](https://emptykeys.github.io/UI_Framework/)
+[API Docs](https://emptykeys.github.io/UI_Framework/index.html)
 
 # Features
 ## Multi-platform and Multi-Engine
