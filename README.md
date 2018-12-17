@@ -6,13 +6,13 @@ Empty Keys UI is multi-platform user interface framework.
 
 # Features
 ## Multi-platform and Multi-Engine
-Empty Keys UI is Portable Class Library for .NET or Mono. On top of that it supports 5 engines - CocosSharp, Xenko, Synapse Gaming SunBurn, MonoGame and FNA.
+Empty Keys UI is a library for .NET, Mono or .NET Core. It's engine agnostic. Two frameworks/engines are supported out of the box - MonoGame and Xenko. Engine specific libraries are open source - https://github.com/EmptyKeys/UI_Engines
 
 ## Code Generator from XAML
 Final code is generated from standard XAML (.NET WPF) so you can use Visual Studio, Blend (or any other XAML editor) to create your UI. On top of that code generator detects used fonts and generates XNA Sprite Font definitions.
 
 ## Style and Themes
-Empty Keys UI comes with built-in themes for quick start (Dark, Light and default dark Empty Keys). You can create more themes and styles by using Control and Data Templates.
+Empty Keys UI comes with built-in themes for quick start (Dark, Light and default dark Empty Keys). You can create more themes and styles by using Controls and Data Templates.
 
 ## MVVM support
 The Model-View-ViewModel pattern is fully supported and Empty Keys UI comes with base classes and Service Manager for easy use.
