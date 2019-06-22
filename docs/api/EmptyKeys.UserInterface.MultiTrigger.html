@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class TriggerBase
+    <title>Class MultiTrigger
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class TriggerBase
+    <meta name="title" content="Class MultiTrigger
    ">
     <meta name="generator" content="docfx 2.40.4.0">
     
@@ -68,25 +68,27 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.TriggerBase">
+            <article class="content wrap" id="_content" data-uid="EmptyKeys.UserInterface.MultiTrigger">
   
   
-  <h1 id="EmptyKeys_UserInterface_TriggerBase" data-uid="EmptyKeys.UserInterface.TriggerBase" class="text-break">Class TriggerBase
+  <h1 id="EmptyKeys_UserInterface_MultiTrigger" data-uid="EmptyKeys.UserInterface.MultiTrigger" class="text-break">Class MultiTrigger
   </h1>
-  <div class="markdown level0 summary"><p>Implements base class for all triggers</p>
+  <div class="markdown level0 summary"><p>Implements multi trigger</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
-    <div class="level2"><span class="xref">TriggerBase</span></div>
-      <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.EventTrigger.html">EventTrigger</a></div>
-      <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.MultiTrigger.html">MultiTrigger</a></div>
-      <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.Trigger.html">Trigger</a></div>
+    <div class="level1"><a class="xref" href="EmptyKeys.UserInterface.Threading.DispatcherObject.html">DispatcherObject</a></div>
+    <div class="level2"><a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html">DependencyObject</a></div>
+    <div class="level3"><a class="xref" href="EmptyKeys.UserInterface.TriggerBase.html">TriggerBase</a></div>
+    <div class="level4"><span class="xref">MultiTrigger</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.TriggerBase.html#EmptyKeys_UserInterface_TriggerBase_Setters">TriggerBase.Setters</a>
+    </div>
     <div>
       <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_DependencyObjectType">DependencyObject.DependencyObjectType</a>
     </div>
@@ -126,38 +128,59 @@
     <div>
       <a class="xref" href="EmptyKeys.UserInterface.DependencyObject.html#EmptyKeys_UserInterface_DependencyObject_SetResourceReference_EmptyKeys_UserInterface_DependencyProperty_System_Object_">DependencyObject.SetResourceReference(DependencyProperty, Object)</a>
     </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Threading.DispatcherObject.html#EmptyKeys_UserInterface_Threading_DispatcherObject_Dispatcher">DispatcherObject.Dispatcher</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Threading.DispatcherObject.html#EmptyKeys_UserInterface_Threading_DispatcherObject_VerifyAccess">DispatcherObject.VerifyAccess()</a>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ToString()</span>
+    </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="EmptyKeys.UserInterface.html">EmptyKeys.UserInterface</a></h6>
   <h6><strong>Assembly</strong>: EmptyKeys.UserInterface.dll</h6>
-  <h5 id="EmptyKeys_UserInterface_TriggerBase_syntax">Syntax</h5>
+  <h5 id="EmptyKeys_UserInterface_MultiTrigger_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract class TriggerBase : DependencyObject</code></pre>
+    <pre><code class="lang-csharp hljs">public class MultiTrigger : TriggerBase</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   
   
-  <a id="EmptyKeys_UserInterface_TriggerBase__ctor_" data-uid="EmptyKeys.UserInterface.TriggerBase.#ctor*"></a>
-  <h4 id="EmptyKeys_UserInterface_TriggerBase__ctor" data-uid="EmptyKeys.UserInterface.TriggerBase.#ctor">TriggerBase()</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.TriggerBase.html">TriggerBase</a> class.</p>
+  <a id="EmptyKeys_UserInterface_MultiTrigger__ctor_" data-uid="EmptyKeys.UserInterface.MultiTrigger.#ctor*"></a>
+  <h4 id="EmptyKeys_UserInterface_MultiTrigger__ctor" data-uid="EmptyKeys.UserInterface.MultiTrigger.#ctor">MultiTrigger()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="EmptyKeys.UserInterface.MultiTrigger.html">MultiTrigger</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public TriggerBase()</code></pre>
+    <pre><code class="lang-csharp hljs">public MultiTrigger()</code></pre>
   </div>
   <h3 id="properties">Properties
   </h3>
   
   
-  <a id="EmptyKeys_UserInterface_TriggerBase_Setters_" data-uid="EmptyKeys.UserInterface.TriggerBase.Setters*"></a>
-  <h4 id="EmptyKeys_UserInterface_TriggerBase_Setters" data-uid="EmptyKeys.UserInterface.TriggerBase.Setters">Setters</h4>
-  <div class="markdown level1 summary"><p>Gets the setters.</p>
+  <a id="EmptyKeys_UserInterface_MultiTrigger_Conditions_" data-uid="EmptyKeys.UserInterface.MultiTrigger.Conditions*"></a>
+  <h4 id="EmptyKeys_UserInterface_MultiTrigger_Conditions" data-uid="EmptyKeys.UserInterface.MultiTrigger.Conditions">Conditions</h4>
+  <div class="markdown level1 summary"><p>Gets/Sets multi trigger conditions</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public List&lt;Setter&gt; Setters { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public List&lt;TriggerCondition&gt; Conditions { get; set; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -169,9 +192,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.Setter.html">Setter</a>&gt;</td>
-        <td><p>The setters.</p>
-</td>
+        <td><span class="xref">System.Collections.Generic.List</span>&lt;<a class="xref" href="EmptyKeys.UserInterface.TriggerCondition.html">TriggerCondition</a>&gt;</td>
+        <td></td>
       </tr>
     </tbody>
   </table>

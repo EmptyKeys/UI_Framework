@@ -1572,6 +1572,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnItemsSourceChanged
   nameWithType: ComboBox.OnItemsSourceChanged
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown(EmptyKeys.UserInterface.Input.KeyEventArgs)
+  name: OnKeyDown(KeyEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnKeyDown_EmptyKeys_UserInterface_Input_KeyEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown(EmptyKeys.UserInterface.Input.KeyEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown(EmptyKeys.UserInterface.Input.KeyEventArgs)
+  nameWithType: ComboBox.OnKeyDown(KeyEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown*
+  name: OnKeyDown
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnKeyDown_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnKeyDown
+  nameWithType: ComboBox.OnKeyDown
 - uid: EmptyKeys.UserInterface.Controls.ComboBox.OnLostFocus(System.Object,EmptyKeys.UserInterface.RoutedEventArgs)
   name: OnLostFocus(Object, RoutedEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnLostFocus_System_Object_EmptyKeys_UserInterface_RoutedEventArgs_
@@ -2568,19 +2581,6 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnApplyTemplate
   nameWithType: DataGrid.OnApplyTemplate
-- uid: EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged
-  name: OnContainersChanged()
-  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_OnContainersChanged
-  commentId: M:EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged
-  fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged()
-  nameWithType: DataGrid.OnContainersChanged()
-- uid: EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged*
-  name: OnContainersChanged
-  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_OnContainersChanged_
-  commentId: Overload:EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged
-  isSpec: "True"
-  fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnContainersChanged
-  nameWithType: DataGrid.OnContainersChanged
 - uid: EmptyKeys.UserInterface.Controls.DataGrid.OnItemInserted(System.Int32)
   name: OnItemInserted(Int32)
   href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_OnItemInserted_System_Int32_
@@ -5116,6 +5116,12 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.ListBoxItem.IsSelected
   nameWithType: ListBoxItem.IsSelected
+- uid: EmptyKeys.UserInterface.Controls.ListBoxItem.IsSelectedProperty
+  name: IsSelectedProperty
+  href: api/EmptyKeys.UserInterface.Controls.ListBoxItem.html#EmptyKeys_UserInterface_Controls_ListBoxItem_IsSelectedProperty
+  commentId: F:EmptyKeys.UserInterface.Controls.ListBoxItem.IsSelectedProperty
+  fullName: EmptyKeys.UserInterface.Controls.ListBoxItem.IsSelectedProperty
+  nameWithType: ListBoxItem.IsSelectedProperty
 - uid: EmptyKeys.UserInterface.Controls.ListBoxItem.OnMouseDown(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
   name: OnMouseDown(MouseButtonEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.ListBoxItem.html#EmptyKeys_UserInterface_Controls_ListBoxItem_OnMouseDown_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_
@@ -5255,6 +5261,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnApplyTemplate
   nameWithType: NumericTextBox.OnApplyTemplate
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus(System.Object,EmptyKeys.UserInterface.RoutedEventArgs)
+  name: OnLostFocus(Object, RoutedEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnLostFocus_System_Object_EmptyKeys_UserInterface_RoutedEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus(System.Object,EmptyKeys.UserInterface.RoutedEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus(System.Object, EmptyKeys.UserInterface.RoutedEventArgs)
+  nameWithType: NumericTextBox.OnLostFocus(Object, RoutedEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus*
+  name: OnLostFocus
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnLostFocus_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnLostFocus
+  nameWithType: NumericTextBox.OnLostFocus
 - uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnMaximumChanged(System.Single,System.Single)
   name: OnMaximumChanged(Single, Single)
   href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnMaximumChanged_System_Single_System_Single_
@@ -5281,6 +5300,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnMinimumChanged
   nameWithType: NumericTextBox.OnMinimumChanged
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel(System.Object,EmptyKeys.UserInterface.Input.MouseWheelEventArgs)
+  name: OnPreviewMouseWheel(Object, MouseWheelEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnPreviewMouseWheel_System_Object_EmptyKeys_UserInterface_Input_MouseWheelEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel(System.Object,EmptyKeys.UserInterface.Input.MouseWheelEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel(System.Object, EmptyKeys.UserInterface.Input.MouseWheelEventArgs)
+  nameWithType: NumericTextBox.OnPreviewMouseWheel(Object, MouseWheelEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel*
+  name: OnPreviewMouseWheel
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnPreviewMouseWheel_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel
+  nameWithType: NumericTextBox.OnPreviewMouseWheel
 - uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnTextPropertyChanged(System.String,System.String)
   name: OnTextPropertyChanged(String, String)
   href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnTextPropertyChanged_System_String_System_String_
@@ -7521,6 +7553,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnLostFocus
   nameWithType: TextBoxBase.OnLostFocus
+- uid: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
+  name: OnMouseDoubleClick(MouseButtonEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.html#EmptyKeys_UserInterface_Controls_Primitives_TextBoxBase_OnMouseDoubleClick_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
+  nameWithType: TextBoxBase.OnMouseDoubleClick(MouseButtonEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick*
+  name: OnMouseDoubleClick
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.html#EmptyKeys_UserInterface_Controls_Primitives_TextBoxBase_OnMouseDoubleClick_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDoubleClick
+  nameWithType: TextBoxBase.OnMouseDoubleClick
 - uid: EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.OnMouseDown(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
   name: OnMouseDown(MouseButtonEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.html#EmptyKeys_UserInterface_Controls_Primitives_TextBoxBase_OnMouseDown_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_
@@ -14427,12 +14472,12 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Documents.TextHelper.BreakTextIntoList
   nameWithType: TextHelper.BreakTextIntoList
-- uid: EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String,EmptyKeys.UserInterface.Media.FontBase,System.Single,System.Int32,System.Single,System.Single)
-  name: Wrap(String, FontBase, Single, Int32, Single, Single)
-  href: api/EmptyKeys.UserInterface.Documents.TextHelper.html#EmptyKeys_UserInterface_Documents_TextHelper_Wrap_System_String_EmptyKeys_UserInterface_Media_FontBase_System_Single_System_Int32_System_Single_System_Single_
-  commentId: M:EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String,EmptyKeys.UserInterface.Media.FontBase,System.Single,System.Int32,System.Single,System.Single)
-  fullName: EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String, EmptyKeys.UserInterface.Media.FontBase, System.Single, System.Int32, System.Single, System.Single)
-  nameWithType: TextHelper.Wrap(String, FontBase, Single, Int32, Single, Single)
+- uid: EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String,EmptyKeys.UserInterface.Media.FontBase,System.Single,System.Int32,System.Single,System.Single,System.Boolean)
+  name: Wrap(String, FontBase, Single, Int32, Single, Single, Boolean)
+  href: api/EmptyKeys.UserInterface.Documents.TextHelper.html#EmptyKeys_UserInterface_Documents_TextHelper_Wrap_System_String_EmptyKeys_UserInterface_Media_FontBase_System_Single_System_Int32_System_Single_System_Single_System_Boolean_
+  commentId: M:EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String,EmptyKeys.UserInterface.Media.FontBase,System.Single,System.Int32,System.Single,System.Single,System.Boolean)
+  fullName: EmptyKeys.UserInterface.Documents.TextHelper.Wrap(System.String, EmptyKeys.UserInterface.Media.FontBase, System.Single, System.Int32, System.Single, System.Single, System.Boolean)
+  nameWithType: TextHelper.Wrap(String, FontBase, Single, Int32, Single, Single, Boolean)
 - uid: EmptyKeys.UserInterface.Documents.TextHelper.Wrap*
   name: Wrap
   href: api/EmptyKeys.UserInterface.Documents.TextHelper.html#EmptyKeys_UserInterface_Documents_TextHelper_Wrap_
@@ -14609,6 +14654,19 @@ references:
   commentId: T:EmptyKeys.UserInterface.DragDrop
   fullName: EmptyKeys.UserInterface.DragDrop
   nameWithType: DragDrop
+- uid: EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton
+  name: AllowRightMouseButton
+  href: api/EmptyKeys.UserInterface.DragDrop.html#EmptyKeys_UserInterface_DragDrop_AllowRightMouseButton
+  commentId: P:EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton
+  fullName: EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton
+  nameWithType: DragDrop.AllowRightMouseButton
+- uid: EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton*
+  name: AllowRightMouseButton
+  href: api/EmptyKeys.UserInterface.DragDrop.html#EmptyKeys_UserInterface_DragDrop_AllowRightMouseButton_
+  commentId: Overload:EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.DragDrop.AllowRightMouseButton
+  nameWithType: DragDrop.AllowRightMouseButton
 - uid: EmptyKeys.UserInterface.DragDrop.DragStarting
   name: DragStarting
   href: api/EmptyKeys.UserInterface.DragDrop.html#EmptyKeys_UserInterface_DragDrop_DragStarting
@@ -14717,12 +14775,12 @@ references:
   commentId: T:EmptyKeys.UserInterface.DragDropEventArgs
   fullName: EmptyKeys.UserInterface.DragDropEventArgs
   nameWithType: DragDropEventArgs
-- uid: EmptyKeys.UserInterface.DragDropEventArgs.#ctor(System.Object)
-  name: DragDropEventArgs(Object)
-  href: api/EmptyKeys.UserInterface.DragDropEventArgs.html#EmptyKeys_UserInterface_DragDropEventArgs__ctor_System_Object_
-  commentId: M:EmptyKeys.UserInterface.DragDropEventArgs.#ctor(System.Object)
-  fullName: EmptyKeys.UserInterface.DragDropEventArgs.DragDropEventArgs(System.Object)
-  nameWithType: DragDropEventArgs.DragDropEventArgs(Object)
+- uid: EmptyKeys.UserInterface.DragDropEventArgs.#ctor(System.Object,EmptyKeys.UserInterface.Input.MouseButton)
+  name: DragDropEventArgs(Object, MouseButton)
+  href: api/EmptyKeys.UserInterface.DragDropEventArgs.html#EmptyKeys_UserInterface_DragDropEventArgs__ctor_System_Object_EmptyKeys_UserInterface_Input_MouseButton_
+  commentId: M:EmptyKeys.UserInterface.DragDropEventArgs.#ctor(System.Object,EmptyKeys.UserInterface.Input.MouseButton)
+  fullName: EmptyKeys.UserInterface.DragDropEventArgs.DragDropEventArgs(System.Object, EmptyKeys.UserInterface.Input.MouseButton)
+  nameWithType: DragDropEventArgs.DragDropEventArgs(Object, MouseButton)
 - uid: EmptyKeys.UserInterface.DragDropEventArgs.#ctor*
   name: DragDropEventArgs
   href: api/EmptyKeys.UserInterface.DragDropEventArgs.html#EmptyKeys_UserInterface_DragDropEventArgs__ctor_
@@ -14756,6 +14814,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.DragDropEventArgs.Data
   nameWithType: DragDropEventArgs.Data
+- uid: EmptyKeys.UserInterface.DragDropEventArgs.MouseButton
+  name: MouseButton
+  href: api/EmptyKeys.UserInterface.DragDropEventArgs.html#EmptyKeys_UserInterface_DragDropEventArgs_MouseButton
+  commentId: P:EmptyKeys.UserInterface.DragDropEventArgs.MouseButton
+  fullName: EmptyKeys.UserInterface.DragDropEventArgs.MouseButton
+  nameWithType: DragDropEventArgs.MouseButton
+- uid: EmptyKeys.UserInterface.DragDropEventArgs.MouseButton*
+  name: MouseButton
+  href: api/EmptyKeys.UserInterface.DragDropEventArgs.html#EmptyKeys_UserInterface_DragDropEventArgs_MouseButton_
+  commentId: Overload:EmptyKeys.UserInterface.DragDropEventArgs.MouseButton
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.DragDropEventArgs.MouseButton
+  nameWithType: DragDropEventArgs.MouseButton
 - uid: EmptyKeys.UserInterface.DragDropEventHandler
   name: DragDropEventHandler
   href: api/EmptyKeys.UserInterface.DragDropEventHandler.html
@@ -27301,6 +27372,38 @@ references:
   commentId: F:EmptyKeys.UserInterface.MessageBoxResult.Yes
   fullName: EmptyKeys.UserInterface.MessageBoxResult.Yes
   nameWithType: MessageBoxResult.Yes
+- uid: EmptyKeys.UserInterface.MultiTrigger
+  name: MultiTrigger
+  href: api/EmptyKeys.UserInterface.MultiTrigger.html
+  commentId: T:EmptyKeys.UserInterface.MultiTrigger
+  fullName: EmptyKeys.UserInterface.MultiTrigger
+  nameWithType: MultiTrigger
+- uid: EmptyKeys.UserInterface.MultiTrigger.#ctor
+  name: MultiTrigger()
+  href: api/EmptyKeys.UserInterface.MultiTrigger.html#EmptyKeys_UserInterface_MultiTrigger__ctor
+  commentId: M:EmptyKeys.UserInterface.MultiTrigger.#ctor
+  fullName: EmptyKeys.UserInterface.MultiTrigger.MultiTrigger()
+  nameWithType: MultiTrigger.MultiTrigger()
+- uid: EmptyKeys.UserInterface.MultiTrigger.#ctor*
+  name: MultiTrigger
+  href: api/EmptyKeys.UserInterface.MultiTrigger.html#EmptyKeys_UserInterface_MultiTrigger__ctor_
+  commentId: Overload:EmptyKeys.UserInterface.MultiTrigger.#ctor
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.MultiTrigger.MultiTrigger
+  nameWithType: MultiTrigger.MultiTrigger
+- uid: EmptyKeys.UserInterface.MultiTrigger.Conditions
+  name: Conditions
+  href: api/EmptyKeys.UserInterface.MultiTrigger.html#EmptyKeys_UserInterface_MultiTrigger_Conditions
+  commentId: P:EmptyKeys.UserInterface.MultiTrigger.Conditions
+  fullName: EmptyKeys.UserInterface.MultiTrigger.Conditions
+  nameWithType: MultiTrigger.Conditions
+- uid: EmptyKeys.UserInterface.MultiTrigger.Conditions*
+  name: Conditions
+  href: api/EmptyKeys.UserInterface.MultiTrigger.html#EmptyKeys_UserInterface_MultiTrigger_Conditions_
+  commentId: Overload:EmptyKeys.UserInterface.MultiTrigger.Conditions
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.MultiTrigger.Conditions
+  nameWithType: MultiTrigger.Conditions
 - uid: EmptyKeys.UserInterface.Mvvm
   name: EmptyKeys.UserInterface.Mvvm
   href: api/EmptyKeys.UserInterface.Mvvm.html
@@ -30092,6 +30195,22 @@ references:
   commentId: T:EmptyKeys.UserInterface.Themes.CommonHelpers
   fullName: EmptyKeys.UserInterface.Themes.CommonHelpers
   nameWithType: CommonHelpers
+- uid: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(System.Collections.Generic.List{TriggerCondition},System.String,System.String,System.String,System.String)
+  name: CreateBackgroundBorderForegroundMultiTrigger(List<TriggerCondition>, String, String, String, String)
+  href: api/EmptyKeys.UserInterface.Themes.CommonHelpers.html#EmptyKeys_UserInterface_Themes_CommonHelpers_CreateBackgroundBorderForegroundMultiTrigger_System_Collections_Generic_List_TriggerCondition__System_String_System_String_System_String_System_String_
+  commentId: M:EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(System.Collections.Generic.List{TriggerCondition},System.String,System.String,System.String,System.String)
+  name.vb: CreateBackgroundBorderForegroundMultiTrigger(List(Of TriggerCondition), String, String, String, String)
+  fullName: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(System.Collections.Generic.List<TriggerCondition>, System.String, System.String, System.String, System.String)
+  fullName.vb: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(System.Collections.Generic.List(Of TriggerCondition), System.String, System.String, System.String, System.String)
+  nameWithType: CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(List<TriggerCondition>, String, String, String, String)
+  nameWithType.vb: CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger(List(Of TriggerCondition), String, String, String, String)
+- uid: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger*
+  name: CreateBackgroundBorderForegroundMultiTrigger
+  href: api/EmptyKeys.UserInterface.Themes.CommonHelpers.html#EmptyKeys_UserInterface_Themes_CommonHelpers_CreateBackgroundBorderForegroundMultiTrigger_
+  commentId: Overload:EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger
+  nameWithType: CommonHelpers.CreateBackgroundBorderForegroundMultiTrigger
 - uid: EmptyKeys.UserInterface.Themes.CommonHelpers.CreateBackgroundBorderForegroundTrigger(EmptyKeys.UserInterface.DependencyProperty,System.Object,System.String,System.String,System.String,System.String)
   name: CreateBackgroundBorderForegroundTrigger(DependencyProperty, Object, String, String, String, String)
   href: api/EmptyKeys.UserInterface.Themes.CommonHelpers.html#EmptyKeys_UserInterface_Themes_CommonHelpers_CreateBackgroundBorderForegroundTrigger_EmptyKeys_UserInterface_DependencyProperty_System_Object_System_String_System_String_System_String_System_String_
@@ -32217,19 +32336,6 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Trigger.Property
   nameWithType: Trigger.Property
-- uid: EmptyKeys.UserInterface.Trigger.Setters
-  name: Setters
-  href: api/EmptyKeys.UserInterface.Trigger.html#EmptyKeys_UserInterface_Trigger_Setters
-  commentId: P:EmptyKeys.UserInterface.Trigger.Setters
-  fullName: EmptyKeys.UserInterface.Trigger.Setters
-  nameWithType: Trigger.Setters
-- uid: EmptyKeys.UserInterface.Trigger.Setters*
-  name: Setters
-  href: api/EmptyKeys.UserInterface.Trigger.html#EmptyKeys_UserInterface_Trigger_Setters_
-  commentId: Overload:EmptyKeys.UserInterface.Trigger.Setters
-  isSpec: "True"
-  fullName: EmptyKeys.UserInterface.Trigger.Setters
-  nameWithType: Trigger.Setters
 - uid: EmptyKeys.UserInterface.Trigger.Value
   name: Value
   href: api/EmptyKeys.UserInterface.Trigger.html#EmptyKeys_UserInterface_Trigger_Value
@@ -32268,6 +32374,70 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.TriggerBase.TriggerBase
   nameWithType: TriggerBase.TriggerBase
+- uid: EmptyKeys.UserInterface.TriggerBase.Setters
+  name: Setters
+  href: api/EmptyKeys.UserInterface.TriggerBase.html#EmptyKeys_UserInterface_TriggerBase_Setters
+  commentId: P:EmptyKeys.UserInterface.TriggerBase.Setters
+  fullName: EmptyKeys.UserInterface.TriggerBase.Setters
+  nameWithType: TriggerBase.Setters
+- uid: EmptyKeys.UserInterface.TriggerBase.Setters*
+  name: Setters
+  href: api/EmptyKeys.UserInterface.TriggerBase.html#EmptyKeys_UserInterface_TriggerBase_Setters_
+  commentId: Overload:EmptyKeys.UserInterface.TriggerBase.Setters
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.TriggerBase.Setters
+  nameWithType: TriggerBase.Setters
+- uid: EmptyKeys.UserInterface.TriggerCondition
+  name: TriggerCondition
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html
+  commentId: T:EmptyKeys.UserInterface.TriggerCondition
+  fullName: EmptyKeys.UserInterface.TriggerCondition
+  nameWithType: TriggerCondition
+- uid: EmptyKeys.UserInterface.TriggerCondition.#ctor
+  name: TriggerCondition()
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition__ctor
+  commentId: M:EmptyKeys.UserInterface.TriggerCondition.#ctor
+  fullName: EmptyKeys.UserInterface.TriggerCondition.TriggerCondition()
+  nameWithType: TriggerCondition.TriggerCondition()
+- uid: EmptyKeys.UserInterface.TriggerCondition.#ctor(EmptyKeys.UserInterface.DependencyProperty,System.Object)
+  name: TriggerCondition(DependencyProperty, Object)
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition__ctor_EmptyKeys_UserInterface_DependencyProperty_System_Object_
+  commentId: M:EmptyKeys.UserInterface.TriggerCondition.#ctor(EmptyKeys.UserInterface.DependencyProperty,System.Object)
+  fullName: EmptyKeys.UserInterface.TriggerCondition.TriggerCondition(EmptyKeys.UserInterface.DependencyProperty, System.Object)
+  nameWithType: TriggerCondition.TriggerCondition(DependencyProperty, Object)
+- uid: EmptyKeys.UserInterface.TriggerCondition.#ctor*
+  name: TriggerCondition
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition__ctor_
+  commentId: Overload:EmptyKeys.UserInterface.TriggerCondition.#ctor
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.TriggerCondition.TriggerCondition
+  nameWithType: TriggerCondition.TriggerCondition
+- uid: EmptyKeys.UserInterface.TriggerCondition.Property
+  name: Property
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition_Property
+  commentId: P:EmptyKeys.UserInterface.TriggerCondition.Property
+  fullName: EmptyKeys.UserInterface.TriggerCondition.Property
+  nameWithType: TriggerCondition.Property
+- uid: EmptyKeys.UserInterface.TriggerCondition.Property*
+  name: Property
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition_Property_
+  commentId: Overload:EmptyKeys.UserInterface.TriggerCondition.Property
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.TriggerCondition.Property
+  nameWithType: TriggerCondition.Property
+- uid: EmptyKeys.UserInterface.TriggerCondition.Value
+  name: Value
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition_Value
+  commentId: P:EmptyKeys.UserInterface.TriggerCondition.Value
+  fullName: EmptyKeys.UserInterface.TriggerCondition.Value
+  nameWithType: TriggerCondition.Value
+- uid: EmptyKeys.UserInterface.TriggerCondition.Value*
+  name: Value
+  href: api/EmptyKeys.UserInterface.TriggerCondition.html#EmptyKeys_UserInterface_TriggerCondition_Value_
+  commentId: Overload:EmptyKeys.UserInterface.TriggerCondition.Value
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.TriggerCondition.Value
+  nameWithType: TriggerCondition.Value
 - uid: EmptyKeys.UserInterface.UIElement
   name: UIElement
   href: api/EmptyKeys.UserInterface.UIElement.html

@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBox.html",
-          "hash": "4UHGGNrbeP65hiuf88gxjA=="
+          "hash": "zSAflIopZTRzIeg44dQeXw=="
         }
       },
       "is_incremental": true,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBoxItem.html",
-          "hash": "JvswHCSAV0C1n/ivcXCBjg=="
+          "hash": "3mbIUqLrMw61KcbZxGTrrw=="
         }
       },
       "is_incremental": true,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGrid.html",
-          "hash": "U40WwLKjNMl01+Ixh2q6pA=="
+          "hash": "Bgy7qEYZGI2OpAj13xsNZQ=="
         }
       },
       "is_incremental": true,
@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ListBoxItem.html",
-          "hash": "gTqERapPAQHmCHmWPtmNzA=="
+          "hash": "oaZYSu0h8tIQkeZ7dlE6KQ=="
         }
       },
       "is_incremental": true,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.NumericTextBox.html",
-          "hash": "HODNAz2Mmp8Qz8GHu49l4A=="
+          "hash": "G9WnWM3mT9ADY2DLtYATJg=="
         }
       },
       "is_incremental": true,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.PasswordBox.html",
-          "hash": "8irHOBr9bZyR1rJ2SlizQg=="
+          "hash": "o+Wlmg85SM0Q3DWLbVcXOQ=="
         }
       },
       "is_incremental": true,
@@ -897,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.TextBoxBase.html",
-          "hash": "7q1QBACB/htxyhHusTlRFA=="
+          "hash": "oLa6UDZe/Ig1H+nT4q9CoQ=="
         }
       },
       "is_incremental": true,
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.TextBox.html",
-          "hash": "jj1xT1G7ApReiBBeGy/qHw=="
+          "hash": "kMBj0hAFIIQJ3RUQFWVkuw=="
         }
       },
       "is_incremental": true,
@@ -1665,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Documents.TextHelper.html",
-          "hash": "dz5aqmQAN4ttWPxumar3Jw=="
+          "hash": "SO1jnNNK0Boe0MRvPhmI3w=="
         }
       },
       "is_incremental": true,
@@ -1701,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.DragDrop.html",
-          "hash": "q3JGJazE+ppA57VKVBY1Bg=="
+          "hash": "hmN+6bMRkrb1qQc3eIO9kQ=="
         }
       },
       "is_incremental": true,
@@ -1713,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.DragDropEventArgs.html",
-          "hash": "QlSdkNmXWRUAF8SodQ7nEg=="
+          "hash": "GQmST1xWPdYestLRj4xLmQ=="
         }
       },
       "is_incremental": true,
@@ -1785,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.EventTrigger.html",
-          "hash": "m8yYTaESQRvkyGhw8zM2mg=="
+          "hash": "7T3WXPifuXEpcw4yTLrhrA=="
         }
       },
       "is_incremental": true,
@@ -3705,7 +3705,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Media.VisualTreeHelper.html",
-          "hash": "+Ztu1C5Gs8hHMO8NBy+XAA=="
+          "hash": "RCU+nWGgSXzy5PFJgVTKHQ=="
         }
       },
       "is_incremental": true,
@@ -3754,6 +3754,18 @@
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.MessageBoxResult.html",
           "hash": "D/subbXKuB8v8CE27Vh7ng=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.MultiTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.MultiTrigger.html",
+          "hash": "1Oh1gF/OEeqysqO8j2c2Gg=="
         }
       },
       "is_incremental": true,
@@ -4269,7 +4281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Themes.CommonHelpers.html",
-          "hash": "CVIQFJU2PEj5CY4TfplwyA=="
+          "hash": "QKUjdAlAt6q6n5DtZSvoqA=="
         }
       },
       "is_incremental": true,
@@ -4665,7 +4677,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Trigger.html",
-          "hash": "yXxfDUSwNoLYqwnLfXJ14A=="
+          "hash": "FuTVzDlgMBlfMqaIG2oxaA=="
         }
       },
       "is_incremental": true,
@@ -4689,7 +4701,19 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.TriggerBase.html",
-          "hash": "ykDHLZmhFNZb3R7lT0RCeQ=="
+          "hash": "RvNeTuk7c2XhpdyadClT4w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.TriggerCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.TriggerCondition.html",
+          "hash": "E5M2E3MWTTuPxMt+FbFKsw=="
         }
       },
       "is_incremental": true,
@@ -4749,7 +4773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.html",
-          "hash": "nS26Z2Ijgleud0mS4LIB1w=="
+          "hash": "khFiCX/tB6VpVE1TwgLpbA=="
         }
       },
       "is_incremental": true,
@@ -4764,7 +4788,7 @@
           "hash": "UTOHNU0sxwBw9IslyQcfVQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -4773,7 +4797,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Quqs9XnT+JRBx7KrHu4uYw=="
+          "hash": "qjt4+e2zYYMHXM0d3WyF6w=="
         }
       },
       "is_incremental": false,
@@ -4843,11 +4867,11 @@
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build"
         },
-        "ManagedReferenceDocumentProcessor": {
+        "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build"
         },
-        "ConceptualDocumentProcessor": {
+        "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build"
         }
