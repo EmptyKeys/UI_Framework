@@ -4,6 +4,8 @@ Empty Keys UI is multi-platform user interface framework.
 
 [API Docs](https://emptykeys.github.io/UI_Framework/index.html)
 
+[NuGet](https://www.nuget.org/profiles/EmptyKeys)
+
 # Features
 ## Multi-platform and Multi-Engine
 Empty Keys UI is a library for .NET, Mono or .NET Core. It's engine agnostic. Two frameworks/engines are supported out of the box - MonoGame and Xenko. Engine specific libraries are open source - https://github.com/EmptyKeys/UI_Engines
