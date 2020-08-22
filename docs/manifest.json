@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ComboBox.html",
-          "hash": "zSAflIopZTRzIeg44dQeXw=="
+          "hash": "ko30g9CCCz2kznN7fnolEw=="
         }
       },
       "is_incremental": true,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.DataGrid.html",
-          "hash": "Bgy7qEYZGI2OpAj13xsNZQ=="
+          "hash": "alulrOa1tYyeRNAK6QOSdQ=="
         }
       },
       "is_incremental": true,
@@ -585,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ListBox.html",
-          "hash": "h1woaaAsJR6q4kJtaDERLA=="
+          "hash": "GZlZ8shCQ8lk0M5M5Lozfg=="
         }
       },
       "is_incremental": true,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.NumericTextBox.html",
-          "hash": "G9WnWM3mT9ADY2DLtYATJg=="
+          "hash": "VP+fZvFvvTKXkZP60FroSg=="
         }
       },
       "is_incremental": true,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.Panel.html",
-          "hash": "uSXrt4KiPNDBqvmJVbSfNg=="
+          "hash": "Ul9Oi4otMwHCkGJklhg3Gg=="
         }
       },
       "is_incremental": true,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.PasswordBox.html",
-          "hash": "o+Wlmg85SM0Q3DWLbVcXOQ=="
+          "hash": "SAeLn9KNz3rbYj0UaEwyWg=="
         }
       },
       "is_incremental": true,
@@ -813,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html",
-          "hash": "cQGx0woRjMVTYjNOJMn2BA=="
+          "hash": "fZ1SmdWgHtr+n67W5M83AQ=="
         }
       },
       "is_incremental": true,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.Primitives.Selector.html",
-          "hash": "XGpIy778DtUXpTkBY9s6jQ=="
+          "hash": "wder5lOHhTKc34Tsj8kCyg=="
         }
       },
       "is_incremental": true,
@@ -958,6 +958,18 @@
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ProgressBar.html",
           "hash": "ai437wR9EjV8ZGs8DmR2dA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Controls.RadialPanel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Controls.RadialPanel.html",
+          "hash": "JDJZAcpDoANAKYSN258jIA=="
         }
       },
       "is_incremental": true,
@@ -1053,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.ScrollViewer.html",
-          "hash": "uJj4uU2U+/Cg2mAbAsMASQ=="
+          "hash": "48pNZPrUThDnVIA7vuHFFA=="
         }
       },
       "is_incremental": true,
@@ -1113,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.Slider.html",
-          "hash": "4e25awHuZLBmbxKzTw/GQQ=="
+          "hash": "n1DklEDC7WmeixealHQs5w=="
         }
       },
       "is_incremental": true,
@@ -1137,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.TabControl.html",
-          "hash": "ASVQCJCgUYrxOFUnfrjIfw=="
+          "hash": "eDgQOGuXz0HUTtTmoVn5XA=="
         }
       },
       "is_incremental": true,
@@ -1173,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.TextBox.html",
-          "hash": "kMBj0hAFIIQJ3RUQFWVkuw=="
+          "hash": "PdS1x9QSnSawTMy0bD8l/A=="
         }
       },
       "is_incremental": true,
@@ -1257,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.UIRoot.html",
-          "hash": "0f9/F/bxGQYhzwjU1QITnw=="
+          "hash": "u+xxFn9CYwtOAYofPLc8pg=="
         }
       },
       "is_incremental": true,
@@ -1341,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Controls.html",
-          "hash": "PguedcDYRt0Mj/xMrQmEhA=="
+          "hash": "EVGM/GQhBrO0q21tRlKMhw=="
         }
       },
       "is_incremental": true,
@@ -2037,7 +2049,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html",
-          "hash": "ll0u+Bjvojv4pYTOoJo3Dg=="
+          "hash": "GG467mBjQcwhk6TaWZimQQ=="
         }
       },
       "is_incremental": true,
@@ -2050,6 +2062,18 @@
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadButtonEventHandler.html",
           "hash": "cnJtziNsPvvSzO0m6/O5vw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html",
+          "hash": "L44ulDEHy/h3/qUetiBUYA=="
         }
       },
       "is_incremental": true,
@@ -2093,6 +2117,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadHelp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadHelp.html",
+          "hash": "v0IHn8nCwIGuZk+048tAvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadInput.yml",
       "output": {
         ".html": {
@@ -2109,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.html",
-          "hash": "icVuYgSwltKMlob6eo3K1A=="
+          "hash": "CKpCw/zvOjpVctAkycp1sA=="
         }
       },
       "is_incremental": true,
@@ -2122,6 +2158,18 @@
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveEventHandler.html",
           "hash": "4TMmBY65RbQVl3vB2SHk6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html",
+          "hash": "d78BML+EBHAzq+fZNViJFw=="
         }
       },
       "is_incremental": true,
@@ -2313,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.InputListener-1.html",
-          "hash": "tOQ0BlD4sbXy1aHz4ZcJeA=="
+          "hash": "85X5dSYhR/MBLpWqAcRaJA=="
         }
       },
       "is_incremental": true,
@@ -2337,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.InputManager.html",
-          "hash": "SuXw9nXQKeFFS0zD8tXmeQ=="
+          "hash": "s6Fkk9rlI6+rN6cGs7n1AA=="
         }
       },
       "is_incremental": true,
@@ -2673,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.NullInputDevice.html",
-          "hash": "1kaJAMCfXWLj88GOhpjAUg=="
+          "hash": "55z/X4JcDmGN7Uz4agFMxQ=="
         }
       },
       "is_incremental": true,
@@ -2853,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Input.html",
-          "hash": "irEjrOT27Y4lDyRtfYqnpw=="
+          "hash": "Go2CvlyJxafPSrMyxZLEPg=="
         }
       },
       "is_incremental": true,
@@ -3669,7 +3717,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.Media.SoundType.html",
-          "hash": "2nS2CzJiXkQl4PtlmevOAg=="
+          "hash": "QFVpj8EMEdSPEWqQi77nYw=="
         }
       },
       "is_incremental": true,
@@ -3933,7 +3981,7 @@
       "output": {
         ".html": {
           "relative_path": "api/EmptyKeys.UserInterface.NullEngine.html",
-          "hash": "5Y3doDGf65K+uU6ZS0+LjA=="
+          "hash": "BaKlpuwZsQXuc1oJmGvhfg=="
         }
       },
       "is_incremental": true,
@@ -4797,7 +4845,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "qjt4+e2zYYMHXM0d3WyF6w=="
+          "hash": "hPhEJ2HhXdt8SDXgd5aXyQ=="
         }
       },
       "is_incremental": false,

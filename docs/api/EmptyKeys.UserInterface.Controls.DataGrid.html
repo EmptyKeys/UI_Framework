@@ -107,9 +107,6 @@
       <a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_SelectedItemProperty">Selector.SelectedItemProperty</a>
     </div>
     <div>
-      <a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_OnSelectedItemChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_">Selector.OnSelectedItemChanged(DependencyPropertyChangedEventArgs)</a>
-    </div>
-    <div>
       <a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_SelectedItem">Selector.SelectedItem</a>
     </div>
     <div>
@@ -141,6 +138,9 @@
     </div>
     <div>
       <a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_UpdatePublicSelectionProperties">Selector.UpdatePublicSelectionProperties()</a>
+    </div>
+    <div>
+      <a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_BringTargetIntoView_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Controls_ScrollViewer_">Selector.BringTargetIntoView(UIElement, ScrollViewer)</a>
     </div>
     <div>
       <a class="xref" href="EmptyKeys.UserInterface.Controls.ItemsControl.html#EmptyKeys_UserInterface_Controls_ItemsControl_Items">ItemsControl.Items</a>
@@ -1668,6 +1668,37 @@
   <div><a class="xref" href="EmptyKeys.UserInterface.UIElement.html#EmptyKeys_UserInterface_UIElement_OnPreviewMouseWheel_System_Object_EmptyKeys_UserInterface_Input_MouseWheelEventArgs_">UIElement.OnPreviewMouseWheel(Object, MouseWheelEventArgs)</a></div>
   
   
+  <a id="EmptyKeys_UserInterface_Controls_DataGrid_OnSelectedItemChanged_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_DataGrid_OnSelectedItemChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged(EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs)">OnSelectedItemChanged(DependencyPropertyChangedEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Raises the <span class="xref">SelectedItemChanged</span> event.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected override void OnSelectedItemChanged(DependencyPropertyChangedEventArgs e)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs.html">DependencyPropertyChangedEventArgs</a></td>
+        <td><span class="parametername">e</span></td>
+        <td><p>The <a class="xref" href="EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs.html">DependencyPropertyChangedEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_OnSelectedItemChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_">Selector.OnSelectedItemChanged(DependencyPropertyChangedEventArgs)</a></div>
+  
+  
   <a id="EmptyKeys_UserInterface_Controls_DataGrid_RaiseSortingEvent_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.RaiseSortingEvent*"></a>
   <h4 id="EmptyKeys_UserInterface_Controls_DataGrid_RaiseSortingEvent_EmptyKeys_UserInterface_Controls_DataGridSortingEventArgs_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.RaiseSortingEvent(EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs)">RaiseSortingEvent(DataGridSortingEventArgs)</h4>
   <div class="markdown level1 summary"><p>Raises the sorting event.</p>
@@ -1691,6 +1722,35 @@
         <td><a class="xref" href="EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs.html">DataGridSortingEventArgs</a></td>
         <td><span class="parametername">args</span></td>
         <td><p>The <a class="xref" href="EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs.html">DataGridSortingEventArgs</a> instance containing the event data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="EmptyKeys_UserInterface_Controls_DataGrid_ScrollIntoView_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView*"></a>
+  <h4 id="EmptyKeys_UserInterface_Controls_DataGrid_ScrollIntoView_System_Object_" data-uid="EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView(System.Object)">ScrollIntoView(Object)</h4>
+  <div class="markdown level1 summary"><p>Scrolls the into view.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void ScrollIntoView(object item)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td><span class="parametername">item</span></td>
+        <td><p>The item.</p>
 </td>
       </tr>
     </tbody>

@@ -1598,6 +1598,32 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnLostFocus
   nameWithType: ComboBox.OnLostFocus
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown(System.Object,EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  name: OnPreviewGamepadDown(Object, GamepadButtonEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnPreviewGamepadDown_System_Object_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown(System.Object,EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown(System.Object, EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  nameWithType: ComboBox.OnPreviewGamepadDown(Object, GamepadButtonEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown*
+  name: OnPreviewGamepadDown
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnPreviewGamepadDown_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadDown
+  nameWithType: ComboBox.OnPreviewGamepadDown
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  name: OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnPreviewGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove(System.Object, EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  nameWithType: ComboBox.OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove*
+  name: OnPreviewGamepadMove
+  href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnPreviewGamepadMove_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.ComboBox.OnPreviewGamepadMove
+  nameWithType: ComboBox.OnPreviewGamepadMove
 - uid: EmptyKeys.UserInterface.Controls.ComboBox.OnSelectionChanged(EmptyKeys.UserInterface.Controls.SelectionChangedEventArgs)
   name: OnSelectionChanged(SelectionChangedEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.ComboBox.html#EmptyKeys_UserInterface_Controls_ComboBox_OnSelectionChanged_EmptyKeys_UserInterface_Controls_SelectionChangedEventArgs_
@@ -2659,6 +2685,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnPreviewMouseWheel
   nameWithType: DataGrid.OnPreviewMouseWheel
+- uid: EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged(EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs)
+  name: OnSelectedItemChanged(DependencyPropertyChangedEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_OnSelectedItemChanged_EmptyKeys_UserInterface_DependencyPropertyChangedEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged(EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged(EmptyKeys.UserInterface.DependencyPropertyChangedEventArgs)
+  nameWithType: DataGrid.OnSelectedItemChanged(DependencyPropertyChangedEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged*
+  name: OnSelectedItemChanged
+  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_OnSelectedItemChanged_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.DataGrid.OnSelectedItemChanged
+  nameWithType: DataGrid.OnSelectedItemChanged
 - uid: EmptyKeys.UserInterface.Controls.DataGrid.RaiseSortingEvent(EmptyKeys.UserInterface.Controls.DataGridSortingEventArgs)
   name: RaiseSortingEvent(DataGridSortingEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_RaiseSortingEvent_EmptyKeys_UserInterface_Controls_DataGridSortingEventArgs_
@@ -2672,6 +2711,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.DataGrid.RaiseSortingEvent
   nameWithType: DataGrid.RaiseSortingEvent
+- uid: EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView(System.Object)
+  name: ScrollIntoView(Object)
+  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_ScrollIntoView_System_Object_
+  commentId: M:EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView(System.Object)
+  fullName: EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView(System.Object)
+  nameWithType: DataGrid.ScrollIntoView(Object)
+- uid: EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView*
+  name: ScrollIntoView
+  href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_ScrollIntoView_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.DataGrid.ScrollIntoView
+  nameWithType: DataGrid.ScrollIntoView
 - uid: EmptyKeys.UserInterface.Controls.DataGrid.SelectionMode
   name: SelectionMode
   href: api/EmptyKeys.UserInterface.Controls.DataGrid.html#EmptyKeys_UserInterface_Controls_DataGrid_SelectionMode
@@ -5300,6 +5352,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnMinimumChanged
   nameWithType: NumericTextBox.OnMinimumChanged
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  name: OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnPreviewGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove(System.Object, EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  nameWithType: NumericTextBox.OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove*
+  name: OnPreviewGamepadMove
+  href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnPreviewGamepadMove_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewGamepadMove
+  nameWithType: NumericTextBox.OnPreviewGamepadMove
 - uid: EmptyKeys.UserInterface.Controls.NumericTextBox.OnPreviewMouseWheel(System.Object,EmptyKeys.UserInterface.Input.MouseWheelEventArgs)
   name: OnPreviewMouseWheel(Object, MouseWheelEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.NumericTextBox.html#EmptyKeys_UserInterface_Controls_NumericTextBox_OnPreviewMouseWheel_System_Object_EmptyKeys_UserInterface_Input_MouseWheelEventArgs_
@@ -6747,6 +6812,19 @@ references:
   commentId: F:EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.IntervalProperty
   fullName: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.IntervalProperty
   nameWithType: RepeatButton.IntervalProperty
+- uid: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  name: OnGamepadDown(GamepadButtonEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html#EmptyKeys_UserInterface_Controls_Primitives_RepeatButton_OnGamepadDown_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  nameWithType: RepeatButton.OnGamepadDown(GamepadButtonEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown*
+  name: OnGamepadDown
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html#EmptyKeys_UserInterface_Controls_Primitives_RepeatButton_OnGamepadDown_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnGamepadDown
+  nameWithType: RepeatButton.OnGamepadDown
 - uid: EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.OnMouseDown(EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
   name: OnMouseDown(MouseButtonEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.Primitives.RepeatButton.html#EmptyKeys_UserInterface_Controls_Primitives_RepeatButton_OnMouseDown_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_
@@ -7170,6 +7248,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.Primitives.Selector.AddUnselectedHandler
   nameWithType: Selector.AddUnselectedHandler
+- uid: EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Controls.ScrollViewer)
+  name: BringTargetIntoView(UIElement, ScrollViewer)
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_BringTargetIntoView_EmptyKeys_UserInterface_UIElement_EmptyKeys_UserInterface_Controls_ScrollViewer_
+  commentId: M:EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView(EmptyKeys.UserInterface.UIElement,EmptyKeys.UserInterface.Controls.ScrollViewer)
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView(EmptyKeys.UserInterface.UIElement, EmptyKeys.UserInterface.Controls.ScrollViewer)
+  nameWithType: Selector.BringTargetIntoView(UIElement, ScrollViewer)
+- uid: EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView*
+  name: BringTargetIntoView
+  href: api/EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_BringTargetIntoView_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.Primitives.Selector.BringTargetIntoView
+  nameWithType: Selector.BringTargetIntoView
 - uid: EmptyKeys.UserInterface.Controls.Primitives.Selector.GetIsSelected(EmptyKeys.UserInterface.DependencyObject)
   name: GetIsSelected(DependencyObject)
   href: api/EmptyKeys.UserInterface.Controls.Primitives.Selector.html#EmptyKeys_UserInterface_Controls_Primitives_Selector_GetIsSelected_EmptyKeys_UserInterface_DependencyObject_
@@ -8441,6 +8532,51 @@ references:
   commentId: F:EmptyKeys.UserInterface.Controls.ProgressBar.OrientationProperty
   fullName: EmptyKeys.UserInterface.Controls.ProgressBar.OrientationProperty
   nameWithType: ProgressBar.OrientationProperty
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel
+  name: RadialPanel
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html
+  commentId: T:EmptyKeys.UserInterface.Controls.RadialPanel
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel
+  nameWithType: RadialPanel
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.#ctor
+  name: RadialPanel()
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel__ctor
+  commentId: M:EmptyKeys.UserInterface.Controls.RadialPanel.#ctor
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.RadialPanel()
+  nameWithType: RadialPanel.RadialPanel()
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.#ctor*
+  name: RadialPanel
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel__ctor_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.RadialPanel.#ctor
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.RadialPanel
+  nameWithType: RadialPanel.RadialPanel
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride(EmptyKeys.UserInterface.Size)
+  name: ArrangeOverride(Size)
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel_ArrangeOverride_EmptyKeys_UserInterface_Size_
+  commentId: M:EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride(EmptyKeys.UserInterface.Size)
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride(EmptyKeys.UserInterface.Size)
+  nameWithType: RadialPanel.ArrangeOverride(Size)
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride*
+  name: ArrangeOverride
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel_ArrangeOverride_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.ArrangeOverride
+  nameWithType: RadialPanel.ArrangeOverride
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride(EmptyKeys.UserInterface.Size)
+  name: MeasureOverride(Size)
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel_MeasureOverride_EmptyKeys_UserInterface_Size_
+  commentId: M:EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride(EmptyKeys.UserInterface.Size)
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride(EmptyKeys.UserInterface.Size)
+  nameWithType: RadialPanel.MeasureOverride(Size)
+- uid: EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride*
+  name: MeasureOverride
+  href: api/EmptyKeys.UserInterface.Controls.RadialPanel.html#EmptyKeys_UserInterface_Controls_RadialPanel_MeasureOverride_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.RadialPanel.MeasureOverride
+  nameWithType: RadialPanel.MeasureOverride
 - uid: EmptyKeys.UserInterface.Controls.RadioButton
   name: RadioButton
   href: api/EmptyKeys.UserInterface.Controls.RadioButton.html
@@ -9566,6 +9702,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.ScrollViewer.OnMouseWheel
   nameWithType: ScrollViewer.OnMouseWheel
+- uid: EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  name: OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.ScrollViewer.html#EmptyKeys_UserInterface_Controls_ScrollViewer_OnPreviewGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove(System.Object, EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  nameWithType: ScrollViewer.OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove*
+  name: OnPreviewGamepadMove
+  href: api/EmptyKeys.UserInterface.Controls.ScrollViewer.html#EmptyKeys_UserInterface_Controls_ScrollViewer_OnPreviewGamepadMove_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewGamepadMove
+  nameWithType: ScrollViewer.OnPreviewGamepadMove
 - uid: EmptyKeys.UserInterface.Controls.ScrollViewer.OnPreviewMouseMove(System.Object,EmptyKeys.UserInterface.Input.MouseEventArgs)
   name: OnPreviewMouseMove(Object, MouseEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.ScrollViewer.html#EmptyKeys_UserInterface_Controls_ScrollViewer_OnPreviewMouseMove_System_Object_EmptyKeys_UserInterface_Input_MouseEventArgs_
@@ -10300,6 +10449,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.Slider.OnApplyTemplate
   nameWithType: Slider.OnApplyTemplate
+- uid: EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  name: OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.Slider.html#EmptyKeys_UserInterface_Controls_Slider_OnPreviewGamepadMove_System_Object_EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove(System.Object,EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove(System.Object, EmptyKeys.UserInterface.Input.GamepadMoveEventArgs)
+  nameWithType: Slider.OnPreviewGamepadMove(Object, GamepadMoveEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove*
+  name: OnPreviewGamepadMove
+  href: api/EmptyKeys.UserInterface.Controls.Slider.html#EmptyKeys_UserInterface_Controls_Slider_OnPreviewGamepadMove_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.Slider.OnPreviewGamepadMove
+  nameWithType: Slider.OnPreviewGamepadMove
 - uid: EmptyKeys.UserInterface.Controls.Slider.OnPreviewMouseDown(System.Object,EmptyKeys.UserInterface.Input.MouseButtonEventArgs)
   name: OnPreviewMouseDown(Object, MouseButtonEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.Slider.html#EmptyKeys_UserInterface_Controls_Slider_OnPreviewMouseDown_System_Object_EmptyKeys_UserInterface_Input_MouseButtonEventArgs_
@@ -10512,6 +10674,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.TabControl.OnContainersChanged
   nameWithType: TabControl.OnContainersChanged
+- uid: EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger(System.Object,EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
+  name: OnGamepadTrigger(Object, GamepadTriggerEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnGamepadTrigger_System_Object_EmptyKeys_UserInterface_Input_GamepadTriggerEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger(System.Object,EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger(System.Object, EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
+  nameWithType: TabControl.OnGamepadTrigger(Object, GamepadTriggerEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger*
+  name: OnGamepadTrigger
+  href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnGamepadTrigger_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.TabControl.OnGamepadTrigger
+  nameWithType: TabControl.OnGamepadTrigger
 - uid: EmptyKeys.UserInterface.Controls.TabControl.OnKeyDown(EmptyKeys.UserInterface.Input.KeyEventArgs)
   name: OnKeyDown(KeyEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnKeyDown_EmptyKeys_UserInterface_Input_KeyEventArgs_
@@ -10525,19 +10700,6 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.TabControl.OnKeyDown
   nameWithType: TabControl.OnKeyDown
-- uid: EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger(System.Object,EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
-  name: OnPreviewGamepadTrigger(Object, GamepadTriggerEventArgs)
-  href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnPreviewGamepadTrigger_System_Object_EmptyKeys_UserInterface_Input_GamepadTriggerEventArgs_
-  commentId: M:EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger(System.Object,EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
-  fullName: EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger(System.Object, EmptyKeys.UserInterface.Input.GamepadTriggerEventArgs)
-  nameWithType: TabControl.OnPreviewGamepadTrigger(Object, GamepadTriggerEventArgs)
-- uid: EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger*
-  name: OnPreviewGamepadTrigger
-  href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnPreviewGamepadTrigger_
-  commentId: Overload:EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger
-  isSpec: "True"
-  fullName: EmptyKeys.UserInterface.Controls.TabControl.OnPreviewGamepadTrigger
-  nameWithType: TabControl.OnPreviewGamepadTrigger
 - uid: EmptyKeys.UserInterface.Controls.TabControl.OnSelectionChanged(EmptyKeys.UserInterface.Controls.SelectionChangedEventArgs)
   name: OnSelectionChanged(SelectionChangedEventArgs)
   href: api/EmptyKeys.UserInterface.Controls.TabControl.html#EmptyKeys_UserInterface_Controls_TabControl_OnSelectionChanged_EmptyKeys_UserInterface_Controls_SelectionChangedEventArgs_
@@ -10819,6 +10981,19 @@ references:
   commentId: F:EmptyKeys.UserInterface.Controls.TextBox.MaxLengthProperty
   fullName: EmptyKeys.UserInterface.Controls.TextBox.MaxLengthProperty
   nameWithType: TextBox.MaxLengthProperty
+- uid: EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  name: OnGamepadDown(GamepadButtonEventArgs)
+  href: api/EmptyKeys.UserInterface.Controls.TextBox.html#EmptyKeys_UserInterface_Controls_TextBox_OnGamepadDown_EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_
+  commentId: M:EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  fullName: EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown(EmptyKeys.UserInterface.Input.GamepadButtonEventArgs)
+  nameWithType: TextBox.OnGamepadDown(GamepadButtonEventArgs)
+- uid: EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown*
+  name: OnGamepadDown
+  href: api/EmptyKeys.UserInterface.Controls.TextBox.html#EmptyKeys_UserInterface_Controls_TextBox_OnGamepadDown_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.TextBox.OnGamepadDown
+  nameWithType: TextBox.OnGamepadDown
 - uid: EmptyKeys.UserInterface.Controls.TextBox.OnTextPropertyChanged(System.String,System.String)
   name: OnTextPropertyChanged(String, String)
   href: api/EmptyKeys.UserInterface.Controls.TextBox.html#EmptyKeys_UserInterface_Controls_TextBox_OnTextPropertyChanged_System_String_System_String_
@@ -11990,6 +12165,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Controls.UIRoot.Resize
   nameWithType: UIRoot.Resize
+- uid: EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp(EmptyKeys.UserInterface.UIElement)
+  name: ShowGamepadHelp(UIElement)
+  href: api/EmptyKeys.UserInterface.Controls.UIRoot.html#EmptyKeys_UserInterface_Controls_UIRoot_ShowGamepadHelp_EmptyKeys_UserInterface_UIElement_
+  commentId: M:EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp(EmptyKeys.UserInterface.UIElement)
+  fullName: EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp(EmptyKeys.UserInterface.UIElement)
+  nameWithType: UIRoot.ShowGamepadHelp(UIElement)
+- uid: EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp*
+  name: ShowGamepadHelp
+  href: api/EmptyKeys.UserInterface.Controls.UIRoot.html#EmptyKeys_UserInterface_Controls_UIRoot_ShowGamepadHelp_
+  commentId: Overload:EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Controls.UIRoot.ShowGamepadHelp
+  nameWithType: UIRoot.ShowGamepadHelp
 - uid: EmptyKeys.UserInterface.Controls.UIRoot.UpdateInput(System.Double)
   name: UpdateInput(Double)
   href: api/EmptyKeys.UserInterface.Controls.UIRoot.html#EmptyKeys_UserInterface_Controls_UIRoot_UpdateInput_System_Double_
@@ -17069,6 +17257,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.ChangeButton
   nameWithType: GamepadButtonEventArgs.ChangeButton
+- uid: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener
+  name: InputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html#EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_InputListener
+  commentId: P:EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener
+  fullName: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener
+  nameWithType: GamepadButtonEventArgs.InputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener*
+  name: InputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html#EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_InputListener_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InputListener
+  nameWithType: GamepadButtonEventArgs.InputListener
 - uid: EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.InvokeEventHandler(System.Delegate,System.Object)
   name: InvokeEventHandler(Delegate, Object)
   href: api/EmptyKeys.UserInterface.Input.GamepadButtonEventArgs.html#EmptyKeys_UserInterface_Input_GamepadButtonEventArgs_InvokeEventHandler_System_Delegate_System_Object_
@@ -17088,6 +17289,78 @@ references:
   commentId: T:EmptyKeys.UserInterface.Input.GamepadButtonEventHandler
   fullName: EmptyKeys.UserInterface.Input.GamepadButtonEventHandler
   nameWithType: GamepadButtonEventHandler
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener
+  name: GamepadDPadInputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html
+  commentId: T:EmptyKeys.UserInterface.Input.GamepadDPadInputListener
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener
+  nameWithType: GamepadDPadInputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.#ctor(EmptyKeys.UserInterface.Input.InputListener{EmptyKeys.UserInterface.PointF}.InputListenerGetCurrentValueDelegate)
+  name: GamepadDPadInputListener(InputListener<PointF>.InputListenerGetCurrentValueDelegate)
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener__ctor_EmptyKeys_UserInterface_Input_InputListener_EmptyKeys_UserInterface_PointF__InputListenerGetCurrentValueDelegate_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.#ctor(EmptyKeys.UserInterface.Input.InputListener{EmptyKeys.UserInterface.PointF}.InputListenerGetCurrentValueDelegate)
+  name.vb: GamepadDPadInputListener(InputListener(Of PointF).InputListenerGetCurrentValueDelegate)
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.GamepadDPadInputListener(EmptyKeys.UserInterface.Input.InputListener<EmptyKeys.UserInterface.PointF>.InputListenerGetCurrentValueDelegate)
+  fullName.vb: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.GamepadDPadInputListener(EmptyKeys.UserInterface.Input.InputListener(Of EmptyKeys.UserInterface.PointF).InputListenerGetCurrentValueDelegate)
+  nameWithType: GamepadDPadInputListener.GamepadDPadInputListener(InputListener<PointF>.InputListenerGetCurrentValueDelegate)
+  nameWithType.vb: GamepadDPadInputListener.GamepadDPadInputListener(InputListener(Of PointF).InputListenerGetCurrentValueDelegate)
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.#ctor*
+  name: GamepadDPadInputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener__ctor_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.#ctor
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.GamepadDPadInputListener
+  nameWithType: GamepadDPadInputListener.GamepadDPadInputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat(System.Double,System.Double)
+  name: EnableRepeat(Double, Double)
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_EnableRepeat_System_Double_System_Double_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat(System.Double,System.Double)
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat(System.Double, System.Double)
+  nameWithType: GamepadDPadInputListener.EnableRepeat(Double, Double)
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat*
+  name: EnableRepeat
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_EnableRepeat_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.EnableRepeat
+  nameWithType: GamepadDPadInputListener.EnableRepeat
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.MoveEvent
+  name: MoveEvent
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_MoveEvent
+  commentId: E:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.MoveEvent
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.MoveEvent
+  nameWithType: GamepadDPadInputListener.MoveEvent
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate
+  name: OnUpdate()
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_OnUpdate
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate()
+  nameWithType: GamepadDPadInputListener.OnUpdate()
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate*
+  name: OnUpdate
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_OnUpdate_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.OnUpdate
+  nameWithType: GamepadDPadInputListener.OnUpdate
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.repeatEnabled
+  name: repeatEnabled
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_repeatEnabled
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.repeatEnabled
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.repeatEnabled
+  nameWithType: GamepadDPadInputListener.repeatEnabled
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.RepeatTime
+  name: RepeatTime
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_RepeatTime
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.RepeatTime
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.RepeatTime
+  nameWithType: GamepadDPadInputListener.RepeatTime
+- uid: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.StartingRepeatDelay
+  name: StartingRepeatDelay
+  href: api/EmptyKeys.UserInterface.Input.GamepadDPadInputListener.html#EmptyKeys_UserInterface_Input_GamepadDPadInputListener_StartingRepeatDelay
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadDPadInputListener.StartingRepeatDelay
+  fullName: EmptyKeys.UserInterface.Input.GamepadDPadInputListener.StartingRepeatDelay
+  nameWithType: GamepadDPadInputListener.StartingRepeatDelay
 - uid: EmptyKeys.UserInterface.Input.GamepadEventArgs
   name: GamepadEventArgs
   href: api/EmptyKeys.UserInterface.Input.GamepadEventArgs.html
@@ -17190,6 +17463,204 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.GamepadGesture.Matches
   nameWithType: GamepadGesture.Matches
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp
+  name: GamepadHelp
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html
+  commentId: T:EmptyKeys.UserInterface.Input.GamepadHelp
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp
+  nameWithType: GamepadHelp
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTabIndexDown(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexDown_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTabIndexDown(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown*
+  name: GetTabIndexDown
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexDown_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexDown
+  nameWithType: GamepadHelp.GetTabIndexDown
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTabIndexLeft(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexLeft_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTabIndexLeft(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft*
+  name: GetTabIndexLeft
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexLeft_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexLeft
+  nameWithType: GamepadHelp.GetTabIndexLeft
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTabIndexRight(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexRight_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTabIndexRight(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight*
+  name: GetTabIndexRight
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexRight_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexRight
+  nameWithType: GamepadHelp.GetTabIndexRight
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTabIndexUp(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexUp_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTabIndexUp(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp*
+  name: GetTabIndexUp
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTabIndexUp_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTabIndexUp
+  nameWithType: GamepadHelp.GetTabIndexUp
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTarget(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTarget_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTarget(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget*
+  name: GetTarget
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTarget_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTarget
+  nameWithType: GamepadHelp.GetTarget
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName(EmptyKeys.UserInterface.DependencyObject)
+  name: GetTargetName(DependencyObject)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTargetName_EmptyKeys_UserInterface_DependencyObject_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName(EmptyKeys.UserInterface.DependencyObject)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName(EmptyKeys.UserInterface.DependencyObject)
+  nameWithType: GamepadHelp.GetTargetName(DependencyObject)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName*
+  name: GetTargetName
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_GetTargetName_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.GetTargetName
+  nameWithType: GamepadHelp.GetTargetName
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  name: SetTabIndexDown(DependencyObject, Int32)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexDown_EmptyKeys_UserInterface_DependencyObject_System_Int32_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown(EmptyKeys.UserInterface.DependencyObject, System.Int32)
+  nameWithType: GamepadHelp.SetTabIndexDown(DependencyObject, Int32)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown*
+  name: SetTabIndexDown
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexDown_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexDown
+  nameWithType: GamepadHelp.SetTabIndexDown
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  name: SetTabIndexLeft(DependencyObject, Int32)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexLeft_EmptyKeys_UserInterface_DependencyObject_System_Int32_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft(EmptyKeys.UserInterface.DependencyObject, System.Int32)
+  nameWithType: GamepadHelp.SetTabIndexLeft(DependencyObject, Int32)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft*
+  name: SetTabIndexLeft
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexLeft_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexLeft
+  nameWithType: GamepadHelp.SetTabIndexLeft
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  name: SetTabIndexRight(DependencyObject, Int32)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexRight_EmptyKeys_UserInterface_DependencyObject_System_Int32_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight(EmptyKeys.UserInterface.DependencyObject, System.Int32)
+  nameWithType: GamepadHelp.SetTabIndexRight(DependencyObject, Int32)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight*
+  name: SetTabIndexRight
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexRight_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexRight
+  nameWithType: GamepadHelp.SetTabIndexRight
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  name: SetTabIndexUp(DependencyObject, Int32)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexUp_EmptyKeys_UserInterface_DependencyObject_System_Int32_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp(EmptyKeys.UserInterface.DependencyObject,System.Int32)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp(EmptyKeys.UserInterface.DependencyObject, System.Int32)
+  nameWithType: GamepadHelp.SetTabIndexUp(DependencyObject, Int32)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp*
+  name: SetTabIndexUp
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTabIndexUp_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTabIndexUp
+  nameWithType: GamepadHelp.SetTabIndexUp
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget(EmptyKeys.UserInterface.DependencyObject,EmptyKeys.UserInterface.UIElement)
+  name: SetTarget(DependencyObject, UIElement)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTarget_EmptyKeys_UserInterface_DependencyObject_EmptyKeys_UserInterface_UIElement_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget(EmptyKeys.UserInterface.DependencyObject,EmptyKeys.UserInterface.UIElement)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget(EmptyKeys.UserInterface.DependencyObject, EmptyKeys.UserInterface.UIElement)
+  nameWithType: GamepadHelp.SetTarget(DependencyObject, UIElement)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget*
+  name: SetTarget
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTarget_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTarget
+  nameWithType: GamepadHelp.SetTarget
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName(EmptyKeys.UserInterface.DependencyObject,System.String)
+  name: SetTargetName(DependencyObject, String)
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTargetName_EmptyKeys_UserInterface_DependencyObject_System_String_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName(EmptyKeys.UserInterface.DependencyObject,System.String)
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName(EmptyKeys.UserInterface.DependencyObject, System.String)
+  nameWithType: GamepadHelp.SetTargetName(DependencyObject, String)
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName*
+  name: SetTargetName
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_SetTargetName_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.SetTargetName
+  nameWithType: GamepadHelp.SetTargetName
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexDownProperty
+  name: TabIndexDownProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TabIndexDownProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexDownProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexDownProperty
+  nameWithType: GamepadHelp.TabIndexDownProperty
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexLeftProperty
+  name: TabIndexLeftProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TabIndexLeftProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexLeftProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexLeftProperty
+  nameWithType: GamepadHelp.TabIndexLeftProperty
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexRightProperty
+  name: TabIndexRightProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TabIndexRightProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexRightProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexRightProperty
+  nameWithType: GamepadHelp.TabIndexRightProperty
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexUpProperty
+  name: TabIndexUpProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TabIndexUpProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexUpProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TabIndexUpProperty
+  nameWithType: GamepadHelp.TabIndexUpProperty
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TargetNameProperty
+  name: TargetNameProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TargetNameProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TargetNameProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TargetNameProperty
+  nameWithType: GamepadHelp.TargetNameProperty
+- uid: EmptyKeys.UserInterface.Input.GamepadHelp.TargetProperty
+  name: TargetProperty
+  href: api/EmptyKeys.UserInterface.Input.GamepadHelp.html#EmptyKeys_UserInterface_Input_GamepadHelp_TargetProperty
+  commentId: F:EmptyKeys.UserInterface.Input.GamepadHelp.TargetProperty
+  fullName: EmptyKeys.UserInterface.Input.GamepadHelp.TargetProperty
+  nameWithType: GamepadHelp.TargetProperty
 - uid: EmptyKeys.UserInterface.Input.GamepadInput
   name: GamepadInput
   href: api/EmptyKeys.UserInterface.Input.GamepadInput.html
@@ -17317,6 +17788,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.GamepadMoveEventArgs
   nameWithType: GamepadMoveEventArgs.GamepadMoveEventArgs
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener
+  name: InputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.html#EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_InputListener
+  commentId: P:EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener
+  nameWithType: GamepadMoveEventArgs.InputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener*
+  name: InputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.html#EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_InputListener_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InputListener
+  nameWithType: GamepadMoveEventArgs.InputListener
 - uid: EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.InvokeEventHandler(System.Delegate,System.Object)
   name: InvokeEventHandler(Delegate, Object)
   href: api/EmptyKeys.UserInterface.Input.GamepadMoveEventArgs.html#EmptyKeys_UserInterface_Input_GamepadMoveEventArgs_InvokeEventHandler_System_Delegate_System_Object_
@@ -17362,6 +17846,47 @@ references:
   commentId: T:EmptyKeys.UserInterface.Input.GamepadMoveEventHandler
   fullName: EmptyKeys.UserInterface.Input.GamepadMoveEventHandler
   nameWithType: GamepadMoveEventHandler
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener
+  name: GamepadMoveInputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html
+  commentId: T:EmptyKeys.UserInterface.Input.GamepadMoveInputListener
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener
+  nameWithType: GamepadMoveInputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.#ctor(EmptyKeys.UserInterface.Input.InputListener{EmptyKeys.UserInterface.PointF}.InputListenerGetCurrentValueDelegate)
+  name: GamepadMoveInputListener(InputListener<PointF>.InputListenerGetCurrentValueDelegate)
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html#EmptyKeys_UserInterface_Input_GamepadMoveInputListener__ctor_EmptyKeys_UserInterface_Input_InputListener_EmptyKeys_UserInterface_PointF__InputListenerGetCurrentValueDelegate_
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadMoveInputListener.#ctor(EmptyKeys.UserInterface.Input.InputListener{EmptyKeys.UserInterface.PointF}.InputListenerGetCurrentValueDelegate)
+  name.vb: GamepadMoveInputListener(InputListener(Of PointF).InputListenerGetCurrentValueDelegate)
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.GamepadMoveInputListener(EmptyKeys.UserInterface.Input.InputListener<EmptyKeys.UserInterface.PointF>.InputListenerGetCurrentValueDelegate)
+  fullName.vb: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.GamepadMoveInputListener(EmptyKeys.UserInterface.Input.InputListener(Of EmptyKeys.UserInterface.PointF).InputListenerGetCurrentValueDelegate)
+  nameWithType: GamepadMoveInputListener.GamepadMoveInputListener(InputListener<PointF>.InputListenerGetCurrentValueDelegate)
+  nameWithType.vb: GamepadMoveInputListener.GamepadMoveInputListener(InputListener(Of PointF).InputListenerGetCurrentValueDelegate)
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.#ctor*
+  name: GamepadMoveInputListener
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html#EmptyKeys_UserInterface_Input_GamepadMoveInputListener__ctor_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadMoveInputListener.#ctor
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.GamepadMoveInputListener
+  nameWithType: GamepadMoveInputListener.GamepadMoveInputListener
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.MoveEvent
+  name: MoveEvent
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html#EmptyKeys_UserInterface_Input_GamepadMoveInputListener_MoveEvent
+  commentId: E:EmptyKeys.UserInterface.Input.GamepadMoveInputListener.MoveEvent
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.MoveEvent
+  nameWithType: GamepadMoveInputListener.MoveEvent
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate
+  name: OnUpdate()
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html#EmptyKeys_UserInterface_Input_GamepadMoveInputListener_OnUpdate
+  commentId: M:EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate()
+  nameWithType: GamepadMoveInputListener.OnUpdate()
+- uid: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate*
+  name: OnUpdate
+  href: api/EmptyKeys.UserInterface.Input.GamepadMoveInputListener.html#EmptyKeys_UserInterface_Input_GamepadMoveInputListener_OnUpdate_
+  commentId: Overload:EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.GamepadMoveInputListener.OnUpdate
+  nameWithType: GamepadMoveInputListener.OnUpdate
 - uid: EmptyKeys.UserInterface.Input.GamepadTriggerDelegate
   name: GamepadTriggerDelegate
   href: api/EmptyKeys.UserInterface.Input.GamepadTriggerDelegate.html
@@ -18051,6 +18576,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.InputManager.MouseDevice
   nameWithType: InputManager.MouseDevice
+- uid: EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex(System.Int32,System.Boolean)
+  name: NavigateTabIndex(Int32, Boolean)
+  href: api/EmptyKeys.UserInterface.Input.InputManager.html#EmptyKeys_UserInterface_Input_InputManager_NavigateTabIndex_System_Int32_System_Boolean_
+  commentId: M:EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex(System.Int32,System.Boolean)
+  fullName: EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex(System.Int32, System.Boolean)
+  nameWithType: InputManager.NavigateTabIndex(Int32, Boolean)
+- uid: EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex*
+  name: NavigateTabIndex
+  href: api/EmptyKeys.UserInterface.Input.InputManager.html#EmptyKeys_UserInterface_Input_InputManager_NavigateTabIndex_
+  commentId: Overload:EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.InputManager.NavigateTabIndex
+  nameWithType: InputManager.NavigateTabIndex
 - uid: EmptyKeys.UserInterface.Input.InputManager.NavigateTabNext(System.Boolean)
   name: NavigateTabNext(Boolean)
   href: api/EmptyKeys.UserInterface.Input.InputManager.html#EmptyKeys_UserInterface_Input_InputManager_NavigateTabNext_System_Boolean_
@@ -19528,6 +20066,22 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.NullInputDevice.MouseState
   nameWithType: NullInputDevice.MouseState
+- uid: EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard(System.Action{System.String},System.Action,System.String,System.String,System.Int32)
+  name: ShowVirtualKeyboard(Action<String>, Action, String, String, Int32)
+  href: api/EmptyKeys.UserInterface.Input.NullInputDevice.html#EmptyKeys_UserInterface_Input_NullInputDevice_ShowVirtualKeyboard_System_Action_System_String__System_Action_System_String_System_String_System_Int32_
+  commentId: M:EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard(System.Action{System.String},System.Action,System.String,System.String,System.Int32)
+  name.vb: ShowVirtualKeyboard(Action(Of String), Action, String, String, Int32)
+  fullName: EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard(System.Action<System.String>, System.Action, System.String, System.String, System.Int32)
+  fullName.vb: EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard(System.Action(Of System.String), System.Action, System.String, System.String, System.Int32)
+  nameWithType: NullInputDevice.ShowVirtualKeyboard(Action<String>, Action, String, String, Int32)
+  nameWithType.vb: NullInputDevice.ShowVirtualKeyboard(Action(Of String), Action, String, String, Int32)
+- uid: EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard*
+  name: ShowVirtualKeyboard
+  href: api/EmptyKeys.UserInterface.Input.NullInputDevice.html#EmptyKeys_UserInterface_Input_NullInputDevice_ShowVirtualKeyboard_
+  commentId: Overload:EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.NullInputDevice.ShowVirtualKeyboard
+  nameWithType: NullInputDevice.ShowVirtualKeyboard
 - uid: EmptyKeys.UserInterface.Input.NullInputDevice.TouchState
   name: TouchState
   href: api/EmptyKeys.UserInterface.Input.NullInputDevice.html#EmptyKeys_UserInterface_Input_NullInputDevice_TouchState
@@ -19541,6 +20095,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.Input.NullInputDevice.TouchState
   nameWithType: NullInputDevice.TouchState
+- uid: EmptyKeys.UserInterface.Input.NullInputDevice.Update
+  name: Update()
+  href: api/EmptyKeys.UserInterface.Input.NullInputDevice.html#EmptyKeys_UserInterface_Input_NullInputDevice_Update
+  commentId: M:EmptyKeys.UserInterface.Input.NullInputDevice.Update
+  fullName: EmptyKeys.UserInterface.Input.NullInputDevice.Update()
+  nameWithType: NullInputDevice.Update()
+- uid: EmptyKeys.UserInterface.Input.NullInputDevice.Update*
+  name: Update
+  href: api/EmptyKeys.UserInterface.Input.NullInputDevice.html#EmptyKeys_UserInterface_Input_NullInputDevice_Update_
+  commentId: Overload:EmptyKeys.UserInterface.Input.NullInputDevice.Update
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.Input.NullInputDevice.Update
+  nameWithType: NullInputDevice.Update
 - uid: EmptyKeys.UserInterface.Input.RelayCommand
   name: RelayCommand
   href: api/EmptyKeys.UserInterface.Input.RelayCommand.html
@@ -26983,6 +27550,12 @@ references:
   commentId: F:EmptyKeys.UserInterface.Media.SoundType.CheckBoxHover
   fullName: EmptyKeys.UserInterface.Media.SoundType.CheckBoxHover
   nameWithType: SoundType.CheckBoxHover
+- uid: EmptyKeys.UserInterface.Media.SoundType.FocusChanged
+  name: FocusChanged
+  href: api/EmptyKeys.UserInterface.Media.SoundType.html#EmptyKeys_UserInterface_Media_SoundType_FocusChanged
+  commentId: F:EmptyKeys.UserInterface.Media.SoundType.FocusChanged
+  fullName: EmptyKeys.UserInterface.Media.SoundType.FocusChanged
+  nameWithType: SoundType.FocusChanged
 - uid: EmptyKeys.UserInterface.Media.SoundType.ListBoxMove
   name: ListBoxMove
   href: api/EmptyKeys.UserInterface.Media.SoundType.html#EmptyKeys_UserInterface_Media_SoundType_ListBoxMove
@@ -28261,6 +28834,19 @@ references:
   isSpec: "True"
   fullName: EmptyKeys.UserInterface.NullEngine.Renderer
   nameWithType: NullEngine.Renderer
+- uid: EmptyKeys.UserInterface.NullEngine.Update
+  name: Update()
+  href: api/EmptyKeys.UserInterface.NullEngine.html#EmptyKeys_UserInterface_NullEngine_Update
+  commentId: M:EmptyKeys.UserInterface.NullEngine.Update
+  fullName: EmptyKeys.UserInterface.NullEngine.Update()
+  nameWithType: NullEngine.Update()
+- uid: EmptyKeys.UserInterface.NullEngine.Update*
+  name: Update
+  href: api/EmptyKeys.UserInterface.NullEngine.html#EmptyKeys_UserInterface_NullEngine_Update_
+  commentId: Overload:EmptyKeys.UserInterface.NullEngine.Update
+  isSpec: "True"
+  fullName: EmptyKeys.UserInterface.NullEngine.Update
+  nameWithType: NullEngine.Update
 - uid: EmptyKeys.UserInterface.Orientation
   name: Orientation
   href: api/EmptyKeys.UserInterface.Orientation.html
